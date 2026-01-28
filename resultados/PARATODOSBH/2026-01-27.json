@@ -76,7 +76,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 4667, 4697, 4767, 4797, 4867, 4897"
+      "resumo": "Palpites dados para esta extração: 4096, 4097, 4296, 4297, 4696, 4697"
     },
     "12h - BA": {
       "cabecalhos": [
@@ -147,14 +147,26 @@
           "Bicho": "Elefante"
         }
       ],
-      "frases": {},
+      "frases": {
+        "4096": [
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 4096"
+        ],
+        "4296": [
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 4296"
+        ],
+        "4696": [
+          "VEADO 🦌 no sexto prêmio!<br>com o palpite 4696"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🦌"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 4667, 4697, 4767, 4797, 4867, 4897"
+      "resumo": "Palpites dados para esta extração: 4096, 4097, 4296, 4297, 4696, 4697"
     },
     "15h - BA": {
       "cabecalhos": [
@@ -226,42 +238,28 @@
         }
       ],
       "frases": {
-        "4667": [
-          "Dezena no sexto prêmio!<br>com o palpite 4667",
-          "MACACO 🐒 no sexto prêmio!<br>com o palpite 4667"
+        "4097": [
+          "Dezena no décimo prêmio!<br>com o palpite 4097",
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 4097"
+        ],
+        "4297": [
+          "Dezena no décimo prêmio!<br>com o palpite 4297",
+          "VACA 🐄 no décimo prêmio!<br>com o palpite 4297"
         ],
         "4697": [
           "Dezena no décimo prêmio!<br>com o palpite 4697",
           "VACA 🐄 no décimo prêmio!<br>com o palpite 4697"
-        ],
-        "4767": [
-          "Dezena no sexto prêmio!<br>com o palpite 4767",
-          "MACACO 🐒 no sexto prêmio!<br>com o palpite 4767"
-        ],
-        "4797": [
-          "Dezena no décimo prêmio!<br>com o palpite 4797",
-          "VACA 🐄 no décimo prêmio!<br>com o palpite 4797"
-        ],
-        "4867": [
-          "Centena e Dezena no sexto prêmio!<br>com o palpite 4867",
-          "Dezena no sexto prêmio!<br>com o palpite 4867",
-          "MACACO 🐒 no sexto prêmio!<br>com o palpite 4867"
-        ],
-        "4897": [
-          "Dezena no décimo prêmio!<br>com o palpite 4897",
-          "VACA 🐄 no décimo prêmio!<br>com o palpite 4897"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 6,
+        "Centena": 0,
+        "Dezena": 3,
         "Grupo": [
-          "🐒",
           "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 4667, 4697, 4767, 4797, 4867, 4897"
+      "resumo": "Palpites dados para esta extração: 4096, 4097, 4296, 4297, 4696, 4697"
     },
     "19h - BA": {
       "cabecalhos": [
@@ -333,42 +331,41 @@
         }
       ],
       "frases": {
-        "4667": [
-          "MACACO 🐒 no décimo prêmio!<br>com o palpite 4667"
+        "4096": [
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 4096"
+        ],
+        "4097": [
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 4097",
+          "Dezena no quarto prêmio!<br>com o palpite 4097",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 4097"
+        ],
+        "4296": [
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 4296"
+        ],
+        "4297": [
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 4297",
+          "Dezena no quarto prêmio!<br>com o palpite 4297",
+          "VACA 🐄 no quarto prêmio!<br>com o palpite 4297"
+        ],
+        "4696": [
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 4696"
         ],
         "4697": [
           "VACA 🐄 no primeiro prêmio!<br>com o palpite 4697",
           "Dezena no quarto prêmio!<br>com o palpite 4697",
           "VACA 🐄 no quarto prêmio!<br>com o palpite 4697"
-        ],
-        "4767": [
-          "MACACO 🐒 no décimo prêmio!<br>com o palpite 4767"
-        ],
-        "4797": [
-          "VACA 🐄 no primeiro prêmio!<br>com o palpite 4797",
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 4797",
-          "Dezena no quarto prêmio!<br>com o palpite 4797",
-          "VACA 🐄 no quarto prêmio!<br>com o palpite 4797"
-        ],
-        "4867": [
-          "MACACO 🐒 no décimo prêmio!<br>com o palpite 4867"
-        ],
-        "4897": [
-          "VACA 🐄 no primeiro prêmio!<br>com o palpite 4897",
-          "Dezena no quarto prêmio!<br>com o palpite 4897",
-          "VACA 🐄 no quarto prêmio!<br>com o palpite 4897"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
+        "Centena": 0,
         "Dezena": 3,
         "Grupo": [
           "🐄",
-          "🐒"
+          "🦌"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 4667, 4697, 4767, 4797, 4867, 4897"
+      "resumo": "Palpites dados para esta extração: 4096, 4097, 4296, 4297, 4696, 4697"
     },
     "21h - BA": {
       "cabecalhos": [
@@ -440,28 +437,42 @@
         }
       ],
       "frases": {
+        "4096": [
+          "Dezena no sétimo prêmio!<br>com o palpite 4096",
+          "VEADO 🦌 no sétimo prêmio!<br>com o palpite 4096"
+        ],
+        "4097": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 4097",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 4097"
+        ],
+        "4296": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 4296",
+          "Dezena no sétimo prêmio!<br>com o palpite 4296",
+          "VEADO 🦌 no sétimo prêmio!<br>com o palpite 4296"
+        ],
+        "4297": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 4297",
+          "VACA 🐄 no sexto prêmio!<br>com o palpite 4297"
+        ],
+        "4696": [
+          "Dezena no sétimo prêmio!<br>com o palpite 4696",
+          "VEADO 🦌 no sétimo prêmio!<br>com o palpite 4696"
+        ],
         "4697": [
           "VACA 🐄 no segundo prêmio!<br>com o palpite 4697",
           "VACA 🐄 no sexto prêmio!<br>com o palpite 4697"
-        ],
-        "4797": [
-          "VACA 🐄 no segundo prêmio!<br>com o palpite 4797",
-          "VACA 🐄 no sexto prêmio!<br>com o palpite 4797"
-        ],
-        "4897": [
-          "VACA 🐄 no segundo prêmio!<br>com o palpite 4897",
-          "VACA 🐄 no sexto prêmio!<br>com o palpite 4897"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
+        "Centena": 1,
+        "Dezena": 3,
         "Grupo": [
-          "🐄"
+          "🐄",
+          "🦌"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 4667, 4697, 4767, 4797, 4867, 4897"
+      "resumo": "Palpites dados para esta extração: 4096, 4097, 4296, 4297, 4696, 4697"
     }
   }
 }
