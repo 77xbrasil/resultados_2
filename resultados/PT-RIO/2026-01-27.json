@@ -51,59 +51,14 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "4084": [
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 4084"
-        ],
-        "4184": [
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 4184"
-        ],
-        "4284": [
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 4284"
-        ],
-        "4384": [
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 4384"
-        ],
-        "4484": [
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 4484"
-        ],
-        "4884": [
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 4884"
-        ],
-        "4984": [
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 4984"
-        ],
-        "7084": [
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 7084"
-        ],
-        "7184": [
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 7184"
-        ],
-        "7284": [
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 7284"
-        ],
-        "7384": [
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 7384"
-        ],
-        "7484": [
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 7484"
-        ],
-        "7884": [
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 7884"
-        ],
-        "7984": [
-          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 7984"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🐂"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 4084, 4184, 4284, 4384, 4484, 4884, 4984, 7084, 7184, 7284, 7384, 7484, 7884, 7984"
+      "resumo": "Palpites dados para esta extração: 2274"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -163,7 +118,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 4084, 4184, 4284, 4384, 4484, 4884, 4984, 7084, 7184, 7284, 7384, 7484, 7884, 7984"
+      "resumo": "Palpites dados para esta extração: 2274"
     },
     "PT-RIO, RJ, 14:20, PT": {
       "cabecalhos": [
@@ -223,7 +178,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 4084, 4184, 4284, 4384, 4484, 4884, 4984, 7084, 7184, 7284, 7384, 7484, 7884, 7984"
+      "resumo": "Palpites dados para esta extração: 2274"
     },
     "PT-RIO, RJ, 16:00, PTV": {
       "cabecalhos": [
@@ -283,7 +238,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 4084, 4184, 4284, 4384, 4484, 4884, 4984, 7084, 7184, 7284, 7384, 7484, 7884, 7984"
+      "resumo": "Palpites dados para esta extração: 2274"
     },
     "PT-RIO, RJ, 18:20, PTN": {
       "cabecalhos": [
@@ -336,75 +291,74 @@
           "Bicho": ""
         }
       ],
-      "frases": {
-        "4084": [
-          "Dezena no quinto prêmio!<br>com o palpite 4084",
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 4084"
-        ],
-        "4184": [
-          "Centena e Dezena no quinto prêmio!<br>com o palpite 4184",
-          "Dezena no quinto prêmio!<br>com o palpite 4184",
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 4184"
-        ],
-        "4284": [
-          "Dezena no quinto prêmio!<br>com o palpite 4284",
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 4284"
-        ],
-        "4384": [
-          "Dezena no quinto prêmio!<br>com o palpite 4384",
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 4384"
-        ],
-        "4484": [
-          "Dezena no quinto prêmio!<br>com o palpite 4484",
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 4484"
-        ],
-        "4884": [
-          "Dezena no quinto prêmio!<br>com o palpite 4884",
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 4884"
-        ],
-        "4984": [
-          "Dezena no quinto prêmio!<br>com o palpite 4984",
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 4984"
-        ],
-        "7084": [
-          "Dezena no quinto prêmio!<br>com o palpite 7084",
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 7084"
-        ],
-        "7184": [
-          "Centena e Dezena no quinto prêmio!<br>com o palpite 7184",
-          "Dezena no quinto prêmio!<br>com o palpite 7184",
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 7184"
-        ],
-        "7284": [
-          "Dezena no quinto prêmio!<br>com o palpite 7284",
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 7284"
-        ],
-        "7384": [
-          "Dezena no quinto prêmio!<br>com o palpite 7384",
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 7384"
-        ],
-        "7484": [
-          "Dezena no quinto prêmio!<br>com o palpite 7484",
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 7484"
-        ],
-        "7884": [
-          "Dezena no quinto prêmio!<br>com o palpite 7884",
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 7884"
-        ],
-        "7984": [
-          "Dezena no quinto prêmio!<br>com o palpite 7984",
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 7984"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
-        "Centena": 2,
-        "Dezena": 14,
-        "Grupo": [
-          "🐂"
-        ]
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 4084, 4184, 4284, 4384, 4484, 4884, 4984, 7084, 7184, 7284, 7384, 7484, 7884, 7984"
+      "resumo": "Palpites dados para esta extração: 2274"
+    },
+    "PT-RIO, RJ, 21:20, CORUJA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6830",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1056",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3454",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4989",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7669",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "3998",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "212",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 2274"
     }
   },
   "1-10": {
@@ -484,7 +438,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 4084, 4184, 4284, 4384, 4484, 4884, 4984, 7084, 7184, 7284, 7384, 7484, 7884, 7984"
+      "resumo": "Palpites dados para esta extração: 2274"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
@@ -562,7 +516,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 4084, 4184, 4284, 4384, 4484, 4884, 4984, 7084, 7184, 7284, 7384, 7484, 7884, 7984"
+      "resumo": "Palpites dados para esta extração: 2274"
     },
     "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
       "cabecalhos": [
@@ -640,7 +594,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 4084, 4184, 4284, 4384, 4484, 4884, 4984, 7084, 7184, 7284, 7384, 7484, 7884, 7984"
+      "resumo": "Palpites dados para esta extração: 2274"
     },
     "PT-RIO, RJ, 16:00, PTV do 1º ao 10º": {
       "cabecalhos": [
@@ -718,7 +672,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 4084, 4184, 4284, 4384, 4484, 4884, 4984, 7084, 7184, 7284, 7384, 7484, 7884, 7984"
+      "resumo": "Palpites dados para esta extração: 2274"
     },
     "PT-RIO, RJ, 18:20, PTN do 1º ao 10º": {
       "cabecalhos": [
@@ -789,75 +743,92 @@
           "Bicho": "Elefante"
         }
       ],
-      "frases": {
-        "4084": [
-          "Dezena no quinto prêmio!<br>com o palpite 4084",
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 4084"
-        ],
-        "4184": [
-          "Centena e Dezena no quinto prêmio!<br>com o palpite 4184",
-          "Dezena no quinto prêmio!<br>com o palpite 4184",
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 4184"
-        ],
-        "4284": [
-          "Dezena no quinto prêmio!<br>com o palpite 4284",
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 4284"
-        ],
-        "4384": [
-          "Dezena no quinto prêmio!<br>com o palpite 4384",
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 4384"
-        ],
-        "4484": [
-          "Dezena no quinto prêmio!<br>com o palpite 4484",
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 4484"
-        ],
-        "4884": [
-          "Dezena no quinto prêmio!<br>com o palpite 4884",
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 4884"
-        ],
-        "4984": [
-          "Dezena no quinto prêmio!<br>com o palpite 4984",
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 4984"
-        ],
-        "7084": [
-          "Dezena no quinto prêmio!<br>com o palpite 7084",
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 7084"
-        ],
-        "7184": [
-          "Centena e Dezena no quinto prêmio!<br>com o palpite 7184",
-          "Dezena no quinto prêmio!<br>com o palpite 7184",
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 7184"
-        ],
-        "7284": [
-          "Dezena no quinto prêmio!<br>com o palpite 7284",
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 7284"
-        ],
-        "7384": [
-          "Dezena no quinto prêmio!<br>com o palpite 7384",
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 7384"
-        ],
-        "7484": [
-          "Dezena no quinto prêmio!<br>com o palpite 7484",
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 7484"
-        ],
-        "7884": [
-          "Dezena no quinto prêmio!<br>com o palpite 7884",
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 7884"
-        ],
-        "7984": [
-          "Dezena no quinto prêmio!<br>com o palpite 7984",
-          "TOURO 🐂 no quinto prêmio!<br>com o palpite 7984"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
-        "Centena": 2,
-        "Dezena": 14,
-        "Grupo": [
-          "🐂"
-        ]
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 4084, 4184, 4284, 4384, 4484, 4884, 4984, 7084, 7184, 7284, 7384, 7484, 7884, 7984"
+      "resumo": "Palpites dados para esta extração: 2274"
+    },
+    "PT-RIO, RJ, 21:20, CORUJA do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6830",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1056",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3454",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4989",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7669",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "6134",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "8049",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "3558",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "0649",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "2388",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 2274"
     }
   }
 }
