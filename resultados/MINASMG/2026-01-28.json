@@ -58,7 +58,130 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0113, 0118, 0173, 0178, 0213, 0218, 0273, 0278, 0813, 0818, 0873, 0878, 6113, 6118, 6173, 6178, 6213, 6218, 6273, 6278, 6813, 6818, 6873, 6878"
+      "resumo": "Palpites dados para esta extração: 0113, 0119, 0173, 0179, 0213, 0219, 0273, 0279, 0813, 0819, 0873, 0879, 1113, 1119, 1173, 1179, 1213, 1219, 1273, 1279, 1813, 1819, 1873, 1879, 2113, 2119, 2173, 2179, 2213, 2219, 2273, 2279, 2813, 2819, 2873, 2879, 6113, 6119, 6173, 6179, 6213, 6219, 6273, 6279, 6813, 6819, 6873, 6879, 9113, 9119, 9173, 9179, 9213, 9219, 9273, 9279, 9813, 9819, 9873, 9879"
+    },
+    "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0346",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5477",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1177",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "2634",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9553",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "19187",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "895",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1179": [
+          "PERU 🦃 no segundo prêmio!<br>com o palpite 1179",
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 1179"
+        ],
+        "1279": [
+          "PERU 🦃 no segundo prêmio!<br>com o palpite 1279",
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 1279"
+        ],
+        "1879": [
+          "PERU 🦃 no segundo prêmio!<br>com o palpite 1879",
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 1879"
+        ],
+        "2179": [
+          "PERU 🦃 no segundo prêmio!<br>com o palpite 2179",
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 2179"
+        ],
+        "2279": [
+          "PERU 🦃 no segundo prêmio!<br>com o palpite 2279",
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 2279"
+        ],
+        "2879": [
+          "PERU 🦃 no segundo prêmio!<br>com o palpite 2879",
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 2879"
+        ],
+        "6179": [
+          "PERU 🦃 no segundo prêmio!<br>com o palpite 6179",
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 6179"
+        ],
+        "6279": [
+          "PERU 🦃 no segundo prêmio!<br>com o palpite 6279",
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 6279"
+        ],
+        "6879": [
+          "PERU 🦃 no segundo prêmio!<br>com o palpite 6879",
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 6879"
+        ],
+        "9179": [
+          "PERU 🦃 no segundo prêmio!<br>com o palpite 9179",
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 9179"
+        ],
+        "9279": [
+          "PERU 🦃 no segundo prêmio!<br>com o palpite 9279",
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 9279"
+        ],
+        "9879": [
+          "PERU 🦃 no segundo prêmio!<br>com o palpite 9879",
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 9879"
+        ],
+        "0179": [
+          "PERU 🦃 no segundo prêmio!<br>com o palpite 0179",
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 0179"
+        ],
+        "0279": [
+          "PERU 🦃 no segundo prêmio!<br>com o palpite 0279",
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 0279"
+        ],
+        "0879": [
+          "PERU 🦃 no segundo prêmio!<br>com o palpite 0879",
+          "PERU 🦃 no terceiro prêmio!<br>com o palpite 0879"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🦃"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0113, 0119, 0173, 0179, 0213, 0219, 0273, 0279, 0813, 0819, 0873, 0879, 1113, 1119, 1173, 1179, 1213, 1219, 1273, 1279, 1813, 1819, 1873, 1879, 2113, 2119, 2173, 2179, 2213, 2219, 2273, 2279, 2813, 2819, 2873, 2879, 6113, 6119, 6173, 6179, 6213, 6219, 6273, 6279, 6813, 6819, 6873, 6879, 9113, 9119, 9173, 9179, 9213, 9219, 9273, 9279, 9813, 9819, 9873, 9879"
     }
   }
 }
