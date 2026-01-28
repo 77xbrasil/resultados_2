@@ -1,0 +1,118 @@
+{
+  "1-10": {
+    "LOTECE - CE, 11:00 (manhã)": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "9557",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "0741",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1084",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7021",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4572",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "2002",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "8320",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "8470",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "6927",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "3332",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        }
+      ],
+      "frases": {
+        "7121": [
+          "Dezena no quarto prêmio!<br>com o palpite 7121",
+          "CABRA 🐐 no quarto prêmio!<br>com o palpite 7121"
+        ],
+        "7171": [
+          "PORCO 🐖 no quinto prêmio!<br>com o palpite 7171",
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 7171"
+        ],
+        "7221": [
+          "Dezena no quarto prêmio!<br>com o palpite 7221",
+          "CABRA 🐐 no quarto prêmio!<br>com o palpite 7221"
+        ],
+        "7271": [
+          "PORCO 🐖 no quinto prêmio!<br>com o palpite 7271",
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 7271"
+        ],
+        "7321": [
+          "Dezena no quarto prêmio!<br>com o palpite 7321",
+          "CABRA 🐐 no quarto prêmio!<br>com o palpite 7321"
+        ],
+        "7371": [
+          "PORCO 🐖 no quinto prêmio!<br>com o palpite 7371",
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 7371"
+        ],
+        "7921": [
+          "Dezena no quarto prêmio!<br>com o palpite 7921",
+          "CABRA 🐐 no quarto prêmio!<br>com o palpite 7921"
+        ],
+        "7971": [
+          "PORCO 🐖 no quinto prêmio!<br>com o palpite 7971",
+          "PORCO 🐖 no oitavo prêmio!<br>com o palpite 7971"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 4,
+        "Grupo": [
+          "🐐",
+          "🐖"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 7111, 7121, 7161, 7171, 7211, 7221, 7261, 7271, 7311, 7321, 7361, 7371, 7911, 7921, 7961, 7971"
+    }
+  }
+}
