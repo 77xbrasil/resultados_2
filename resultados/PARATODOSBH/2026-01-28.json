@@ -1,0 +1,103 @@
+{
+  "1-10": {
+    "10h - BA": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "2986",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5145",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "9933",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4023",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7323",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "4605",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "8744",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "6124",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "0125",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "5609",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        }
+      ],
+      "frases": {
+        "9006": [
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 9006"
+        ],
+        "9007": [
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 9007"
+        ],
+        "9206": [
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 9206"
+        ],
+        "9207": [
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 9207"
+        ],
+        "9406": [
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 9406"
+        ],
+        "9407": [
+          "ÁGUIA 🦅 no sexto prêmio!<br>com o palpite 9407"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🦅"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 9001, 9003, 9006, 9007, 9091, 9093, 9096, 9097, 9201, 9203, 9206, 9207, 9291, 9293, 9296, 9297, 9401, 9403, 9406, 9407, 9491, 9493, 9496, 9497"
+    }
+  }
+}
