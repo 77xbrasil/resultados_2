@@ -8,5 +8,15 @@
       "Nacional - LN 15:00",
       "Nacional - LN 17:00"
     ]
+  },
+  "1-10": {
+    "Quinta-feira": [
+      "Nacional - LN 02:00 do 1º ao 10º",
+      "Nacional - LN 08:00 do 1º ao 10º",
+      "Nacional - LN 10:00 do 1º ao 10º",
+      "Nacional - LN 12:00 do 1º ao 10º",
+      "Nacional - LN 15:00 do 1º ao 10º",
+      "Nacional - LN 17:00 do 1º ao 10º"
+    ]
   }
 }
