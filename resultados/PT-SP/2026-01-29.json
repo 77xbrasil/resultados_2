@@ -52,29 +52,32 @@
         }
       ],
       "frases": {
-        "1301": [
-          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1301"
+        "1001": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1001"
         ],
-        "1303": [
-          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1303"
+        "1021": [
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 1021",
+          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 1021"
         ],
-        "1351": [
-          "GALO 🐓 no terceiro prêmio!<br>com o palpite 1351"
+        "1051": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 1051"
         ],
-        "1601": [
-          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1601"
+        "1101": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1101"
         ],
-        "1603": [
-          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1603"
+        "1121": [
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 1121",
+          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 1121"
         ],
-        "1651": [
-          "GALO 🐓 no terceiro prêmio!<br>com o palpite 1651"
+        "1151": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 1151"
         ],
         "1801": [
           "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1801"
         ],
-        "1803": [
-          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1803"
+        "1821": [
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 1821",
+          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 1821"
         ],
         "1851": [
           "GALO 🐓 no terceiro prêmio!<br>com o palpite 1851"
@@ -82,11 +85,52 @@
         "1901": [
           "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1901"
         ],
-        "1903": [
-          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1903"
+        "1921": [
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 1921",
+          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 1921"
         ],
         "1951": [
           "GALO 🐓 no terceiro prêmio!<br>com o palpite 1951"
+        ],
+        "3001": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3001"
+        ],
+        "3021": [
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 3021",
+          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 3021"
+        ],
+        "3051": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 3051"
+        ],
+        "3101": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3101"
+        ],
+        "3121": [
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 3121",
+          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 3121"
+        ],
+        "3151": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 3151"
+        ],
+        "3801": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3801"
+        ],
+        "3821": [
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 3821",
+          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 3821"
+        ],
+        "3851": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 3851"
+        ],
+        "3901": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 3901"
+        ],
+        "3921": [
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 3921",
+          "CABRA 🐐 no sétimo prêmio!<br>com o palpite 3921"
+        ],
+        "3951": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 3951"
         ]
       },
       "acertos": {
@@ -94,11 +138,124 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
+          "🐐",
           "🐓",
           "🪶"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1301, 1303, 1307, 1351, 1353, 1357, 1381, 1383, 1387, 1601, 1603, 1607, 1651, 1653, 1657, 1681, 1683, 1687, 1801, 1803, 1807, 1851, 1853, 1857, 1881, 1883, 1887, 1901, 1903, 1907, 1951, 1953, 1957, 1981, 1983, 1987"
+      "resumo": "Palpites dados para esta extração: 1001, 1006, 1021, 1026, 1051, 1056, 1101, 1106, 1121, 1126, 1151, 1156, 1801, 1806, 1821, 1826, 1851, 1856, 1901, 1906, 1921, 1926, 1951, 1956, 3001, 3006, 3021, 3026, 3051, 3056, 3101, 3106, 3121, 3126, 3151, 3156, 3801, 3806, 3821, 3826, 3851, 3856, 3901, 3906, 3921, 3926, 3951, 3956"
+    },
+    "SP, 10hs - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "1223",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "8825",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "8541",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "6077",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1395",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "6061",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "792",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1021": [
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 1021"
+        ],
+        "1026": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 1026"
+        ],
+        "1121": [
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 1121"
+        ],
+        "1126": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 1126"
+        ],
+        "1821": [
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 1821"
+        ],
+        "1826": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 1826"
+        ],
+        "1921": [
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 1921"
+        ],
+        "1926": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 1926"
+        ],
+        "3021": [
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 3021"
+        ],
+        "3026": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 3026"
+        ],
+        "3121": [
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 3121"
+        ],
+        "3126": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 3126"
+        ],
+        "3821": [
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 3821"
+        ],
+        "3826": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 3826"
+        ],
+        "3921": [
+          "CABRA 🐐 no primeiro prêmio!<br>com o palpite 3921"
+        ],
+        "3926": [
+          "CARNEIRO 🐑 no segundo prêmio!<br>com o palpite 3926"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐐",
+          "🐑"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1001, 1006, 1021, 1026, 1051, 1056, 1101, 1106, 1121, 1126, 1151, 1156, 1801, 1806, 1821, 1826, 1851, 1856, 1901, 1906, 1921, 1926, 1951, 1956, 3001, 3006, 3021, 3026, 3051, 3056, 3101, 3106, 3121, 3126, 3151, 3156, 3801, 3806, 3821, 3826, 3851, 3856, 3901, 3906, 3921, 3926, 3951, 3956"
     }
   },
   "1-10": {
@@ -172,49 +329,147 @@
         }
       ],
       "frases": {
-        "1307": [
-          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 1307"
+        "1006": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 1006"
         ],
-        "1351": [
-          "GALO 🐓 no terceiro prêmio!<br>com o palpite 1351",
-          "Dezena no oitavo prêmio!<br>com o palpite 1351",
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 1351"
+        "1021": [
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 1021",
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 1021"
         ],
-        "1607": [
-          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 1607"
+        "1026": [
+          "Dezena no nono prêmio!<br>com o palpite 1026",
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 1026"
         ],
-        "1651": [
-          "GALO 🐓 no terceiro prêmio!<br>com o palpite 1651",
-          "Dezena no oitavo prêmio!<br>com o palpite 1651",
-          "GALO 🐓 no oitavo prêmio!<br>com o palpite 1651"
+        "1051": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 1051",
+          "Dezena no oitavo prêmio!<br>com o palpite 1051",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 1051"
         ],
-        "1807": [
-          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 1807"
+        "1106": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 1106"
+        ],
+        "1121": [
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 1121",
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 1121"
+        ],
+        "1126": [
+          "Dezena no nono prêmio!<br>com o palpite 1126",
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 1126"
+        ],
+        "1151": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 1151",
+          "Dezena no oitavo prêmio!<br>com o palpite 1151",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 1151"
+        ],
+        "1806": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 1806"
+        ],
+        "1821": [
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 1821",
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 1821"
+        ],
+        "1826": [
+          "Dezena no nono prêmio!<br>com o palpite 1826",
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 1826"
         ],
         "1851": [
           "GALO 🐓 no terceiro prêmio!<br>com o palpite 1851",
           "Dezena no oitavo prêmio!<br>com o palpite 1851",
           "GALO 🐓 no oitavo prêmio!<br>com o palpite 1851"
         ],
-        "1907": [
-          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 1907"
+        "1906": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 1906"
+        ],
+        "1921": [
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 1921",
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 1921"
+        ],
+        "1926": [
+          "Dezena no nono prêmio!<br>com o palpite 1926",
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 1926"
         ],
         "1951": [
           "GALO 🐓 no terceiro prêmio!<br>com o palpite 1951",
           "Dezena no oitavo prêmio!<br>com o palpite 1951",
           "GALO 🐓 no oitavo prêmio!<br>com o palpite 1951"
+        ],
+        "3006": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 3006"
+        ],
+        "3021": [
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 3021",
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 3021"
+        ],
+        "3026": [
+          "Dezena no nono prêmio!<br>com o palpite 3026",
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 3026"
+        ],
+        "3051": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 3051",
+          "Dezena no oitavo prêmio!<br>com o palpite 3051",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 3051"
+        ],
+        "3106": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 3106"
+        ],
+        "3121": [
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 3121",
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 3121"
+        ],
+        "3126": [
+          "Dezena no nono prêmio!<br>com o palpite 3126",
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 3126"
+        ],
+        "3151": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 3151",
+          "Dezena no oitavo prêmio!<br>com o palpite 3151",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 3151"
+        ],
+        "3806": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 3806"
+        ],
+        "3821": [
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 3821",
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 3821"
+        ],
+        "3826": [
+          "Dezena no nono prêmio!<br>com o palpite 3826",
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 3826"
+        ],
+        "3851": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 3851",
+          "Dezena no oitavo prêmio!<br>com o palpite 3851",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 3851"
+        ],
+        "3906": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 3906"
+        ],
+        "3921": [
+          "CABRA 🐐 no segundo prêmio!<br>com o palpite 3921",
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 3921"
+        ],
+        "3926": [
+          "Dezena no nono prêmio!<br>com o palpite 3926",
+          "CARNEIRO 🐑 no nono prêmio!<br>com o palpite 3926"
+        ],
+        "3951": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 3951",
+          "Dezena no oitavo prêmio!<br>com o palpite 3951",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 3951"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 4,
+        "Dezena": 16,
         "Grupo": [
+          "🐐",
           "🐓",
-          "🦅"
+          "🦅",
+          "🐑"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1301, 1303, 1307, 1351, 1353, 1357, 1381, 1383, 1387, 1601, 1603, 1607, 1651, 1653, 1657, 1681, 1683, 1687, 1801, 1803, 1807, 1851, 1853, 1857, 1881, 1883, 1887, 1901, 1903, 1907, 1951, 1953, 1957, 1981, 1983, 1987"
+      "resumo": "Palpites dados para esta extração: 1001, 1006, 1021, 1026, 1051, 1056, 1101, 1106, 1121, 1126, 1151, 1156, 1801, 1806, 1821, 1826, 1851, 1856, 1901, 1906, 1921, 1926, 1951, 1956, 3001, 3006, 3021, 3026, 3051, 3056, 3101, 3106, 3121, 3126, 3151, 3156, 3801, 3806, 3821, 3826, 3851, 3856, 3901, 3906, 3921, 3926, 3951, 3956"
     }
   }
 }
