@@ -51,14 +51,44 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "2200": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 2200"
+        ],
+        "2300": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 2300"
+        ],
+        "2900": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 2900"
+        ],
+        "9200": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 9200"
+        ],
+        "9300": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 9300"
+        ],
+        "9900": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 9900"
+        ],
+        "0200": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 0200"
+        ],
+        "0300": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 0300"
+        ],
+        "0900": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 0900"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐄"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 3490, 3590, 3990"
+      "resumo": "Palpites dados para esta extração: 0200, 0300, 0900, 2200, 2300, 2900, 9200, 9300, 9900"
     },
     "LOOK - GOIÁS, 09h": {
       "cabecalhos": [
@@ -118,7 +148,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3490, 3590, 3990"
+      "resumo": "Palpites dados para esta extração: 0200, 0300, 0900, 2200, 2300, 2900, 9200, 9300, 9900"
     },
     "LOOK - GOIÁS, 11h": {
       "cabecalhos": [
@@ -171,14 +201,44 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "2200": [
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 2200"
+        ],
+        "2300": [
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 2300"
+        ],
+        "2900": [
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 2900"
+        ],
+        "9200": [
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 9200"
+        ],
+        "9300": [
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 9300"
+        ],
+        "9900": [
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 9900"
+        ],
+        "0200": [
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 0200"
+        ],
+        "0300": [
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 0300"
+        ],
+        "0900": [
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 0900"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐄"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 3490, 3590, 3990"
+      "resumo": "Palpites dados para esta extração: 0200, 0300, 0900, 2200, 2300, 2900, 9200, 9300, 9900"
     },
     "LOOK - GOIÁS, 14h": {
       "cabecalhos": [
@@ -231,14 +291,53 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "2200": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2200",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 2200"
+        ],
+        "2300": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2300",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 2300"
+        ],
+        "2900": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2900",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 2900"
+        ],
+        "9200": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9200",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 9200"
+        ],
+        "9300": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9300",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 9300"
+        ],
+        "9900": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9900",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 9900"
+        ],
+        "0200": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0200",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 0200"
+        ],
+        "0300": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0300",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 0300"
+        ],
+        "0900": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0900",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 0900"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 9,
+        "Grupo": [
+          "🐄"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 3490, 3590, 3990"
+      "resumo": "Palpites dados para esta extração: 0200, 0300, 0900, 2200, 2300, 2900, 9200, 9300, 9900"
     },
     "LOOK - GOIÁS, 16h": {
       "cabecalhos": [
@@ -298,7 +397,67 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3490, 3590, 3990"
+      "resumo": "Palpites dados para esta extração: 0200, 0300, 0900, 2200, 2300, 2900, 9200, 9300, 9900"
+    },
+    "LOOK - GOIÁS, 18h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0653",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "8590",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4022",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0172",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7993",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "1430",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "609",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 0200, 0300, 0900, 2200, 2300, 2900, 9200, 9300, 9900"
     }
   },
   "1-10": {
@@ -372,14 +531,32 @@
         }
       ],
       "frases": {
-        "3490": [
-          "URSO 🐻 no sétimo prêmio!<br>com o palpite 3490"
+        "2200": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 2200"
         ],
-        "3590": [
-          "URSO 🐻 no sétimo prêmio!<br>com o palpite 3590"
+        "2300": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 2300"
         ],
-        "3990": [
-          "URSO 🐻 no sétimo prêmio!<br>com o palpite 3990"
+        "2900": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 2900"
+        ],
+        "9200": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 9200"
+        ],
+        "9300": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 9300"
+        ],
+        "9900": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 9900"
+        ],
+        "0200": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 0200"
+        ],
+        "0300": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 0300"
+        ],
+        "0900": [
+          "VACA 🐄 no segundo prêmio!<br>com o palpite 0900"
         ]
       },
       "acertos": {
@@ -387,10 +564,10 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐻"
+          "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3490, 3590, 3990"
+      "resumo": "Palpites dados para esta extração: 0200, 0300, 0900, 2200, 2300, 2900, 9200, 9300, 9900"
     },
     "LOOK - GOIÁS, 09h do 1º ao 10º": {
       "cabecalhos": [
@@ -461,26 +638,14 @@
           "Bicho": "Burro"
         }
       ],
-      "frases": {
-        "3490": [
-          "URSO 🐻 no sexto prêmio!<br>com o palpite 3490"
-        ],
-        "3590": [
-          "URSO 🐻 no sexto prêmio!<br>com o palpite 3590"
-        ],
-        "3990": [
-          "URSO 🐻 no sexto prêmio!<br>com o palpite 3990"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🐻"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3490, 3590, 3990"
+      "resumo": "Palpites dados para esta extração: 0200, 0300, 0900, 2200, 2300, 2900, 9200, 9300, 9900"
     },
     "LOOK - GOIÁS, 11h do 1º ao 10º": {
       "cabecalhos": [
@@ -551,14 +716,53 @@
           "Bicho": "Cabra"
         }
       ],
-      "frases": {},
+      "frases": {
+        "2200": [
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 2200",
+          "VACA 🐄 no nono prêmio!<br>com o palpite 2200"
+        ],
+        "2300": [
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 2300",
+          "VACA 🐄 no nono prêmio!<br>com o palpite 2300"
+        ],
+        "2900": [
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 2900",
+          "VACA 🐄 no nono prêmio!<br>com o palpite 2900"
+        ],
+        "9200": [
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 9200",
+          "VACA 🐄 no nono prêmio!<br>com o palpite 9200"
+        ],
+        "9300": [
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 9300",
+          "VACA 🐄 no nono prêmio!<br>com o palpite 9300"
+        ],
+        "9900": [
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 9900",
+          "VACA 🐄 no nono prêmio!<br>com o palpite 9900"
+        ],
+        "0200": [
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 0200",
+          "VACA 🐄 no nono prêmio!<br>com o palpite 0200"
+        ],
+        "0300": [
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 0300",
+          "VACA 🐄 no nono prêmio!<br>com o palpite 0300"
+        ],
+        "0900": [
+          "VACA 🐄 no terceiro prêmio!<br>com o palpite 0900",
+          "VACA 🐄 no nono prêmio!<br>com o palpite 0900"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐄"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 3490, 3590, 3990"
+      "resumo": "Palpites dados para esta extração: 0200, 0300, 0900, 2200, 2300, 2900, 9200, 9300, 9900"
     },
     "LOOK - GOIÁS, 14h do 1º ao 10º": {
       "cabecalhos": [
@@ -630,28 +834,70 @@
         }
       ],
       "frases": {
-        "3490": [
-          "Dezena no sexto prêmio!<br>com o palpite 3490",
-          "URSO 🐻 no sexto prêmio!<br>com o palpite 3490"
+        "2200": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2200",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 2200",
+          "Dezena no nono prêmio!<br>com o palpite 2200",
+          "VACA 🐄 no nono prêmio!<br>com o palpite 2200"
         ],
-        "3590": [
-          "Dezena no sexto prêmio!<br>com o palpite 3590",
-          "URSO 🐻 no sexto prêmio!<br>com o palpite 3590"
+        "2300": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2300",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 2300",
+          "Dezena no nono prêmio!<br>com o palpite 2300",
+          "VACA 🐄 no nono prêmio!<br>com o palpite 2300"
         ],
-        "3990": [
-          "Dezena no sexto prêmio!<br>com o palpite 3990",
-          "URSO 🐻 no sexto prêmio!<br>com o palpite 3990"
+        "2900": [
+          "Dezena no primeiro prêmio!<br>com o palpite 2900",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 2900",
+          "Dezena no nono prêmio!<br>com o palpite 2900",
+          "VACA 🐄 no nono prêmio!<br>com o palpite 2900"
+        ],
+        "9200": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9200",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 9200",
+          "Dezena no nono prêmio!<br>com o palpite 9200",
+          "VACA 🐄 no nono prêmio!<br>com o palpite 9200"
+        ],
+        "9300": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9300",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 9300",
+          "Dezena no nono prêmio!<br>com o palpite 9300",
+          "VACA 🐄 no nono prêmio!<br>com o palpite 9300"
+        ],
+        "9900": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9900",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 9900",
+          "Dezena no nono prêmio!<br>com o palpite 9900",
+          "VACA 🐄 no nono prêmio!<br>com o palpite 9900"
+        ],
+        "0200": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0200",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 0200",
+          "Dezena no nono prêmio!<br>com o palpite 0200",
+          "VACA 🐄 no nono prêmio!<br>com o palpite 0200"
+        ],
+        "0300": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0300",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 0300",
+          "Dezena no nono prêmio!<br>com o palpite 0300",
+          "VACA 🐄 no nono prêmio!<br>com o palpite 0300"
+        ],
+        "0900": [
+          "Dezena no primeiro prêmio!<br>com o palpite 0900",
+          "VACA 🐄 no primeiro prêmio!<br>com o palpite 0900",
+          "Dezena no nono prêmio!<br>com o palpite 0900",
+          "VACA 🐄 no nono prêmio!<br>com o palpite 0900"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 3,
+        "Dezena": 18,
         "Grupo": [
-          "🐻"
+          "🐄"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 3490, 3590, 3990"
+      "resumo": "Palpites dados para esta extração: 0200, 0300, 0900, 2200, 2300, 2900, 9200, 9300, 9900"
     },
     "LOOK - GOIÁS, 16h do 1º ao 10º": {
       "cabecalhos": [
@@ -722,26 +968,92 @@
           "Bicho": "Macaco"
         }
       ],
-      "frases": {
-        "3490": [
-          "URSO 🐻 no sexto prêmio!<br>com o palpite 3490"
-        ],
-        "3590": [
-          "URSO 🐻 no sexto prêmio!<br>com o palpite 3590"
-        ],
-        "3990": [
-          "URSO 🐻 no sexto prêmio!<br>com o palpite 3990"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🐻"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 3490, 3590, 3990"
+      "resumo": "Palpites dados para esta extração: 0200, 0300, 0900, 2200, 2300, 2900, 9200, 9300, 9900"
+    },
+    "LOOK - GOIÁS, 18h do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0653",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "8590",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4022",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0172",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7993",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "0840",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "6501",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "5927",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "3022",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "7720",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 0200, 0300, 0900, 2200, 2300, 2900, 9200, 9300, 9900"
     }
   }
 }
