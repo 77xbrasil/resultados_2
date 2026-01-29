@@ -51,14 +51,101 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "9353": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9353",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 9353"
+        ],
+        "9383": [
+          "Dezena no segundo prêmio!<br>com o palpite 9383",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 9383",
+          "TOURO 🐂 no sexto prêmio!<br>com o palpite 9383"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
+        "Grupo": [
+          "🐈",
+          "🐂"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 9313, 9353, 9363, 9383"
+    },
+    "PT-RIO, RJ, 11:00, PTM": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3673",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7576",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4816",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4456",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8743",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "9264",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "826",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "9313": [
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 9313"
+        ],
+        "9353": [
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 9353"
+        ],
+        "9363": [
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 9363"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🦋",
+          "🐈",
+          "🦁"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 1263, 1264, 4263, 4264, 9263, 9264"
+      "resumo": "Palpites dados para esta extração: 9313, 9353, 9363, 9383"
     }
   },
   "1-10": {
@@ -131,14 +218,123 @@
           "Bicho": "Gato"
         }
       ],
-      "frases": {},
+      "frases": {
+        "9353": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9353",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 9353",
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 9353",
+          "Dezena no décimo prêmio!<br>com o palpite 9353",
+          "GATO 🐈 no décimo prêmio!<br>com o palpite 9353"
+        ],
+        "9383": [
+          "Dezena no segundo prêmio!<br>com o palpite 9383",
+          "TOURO 🐂 no segundo prêmio!<br>com o palpite 9383",
+          "TOURO 🐂 no oitavo prêmio!<br>com o palpite 9383"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 1,
+        "Dezena": 3,
+        "Grupo": [
+          "🐈",
+          "🐂"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 9313, 9353, 9363, 9383"
+    },
+    "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3673",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "7576",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "4816",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4456",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8743",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "3744",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "6584",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "7715",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "3666",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "0973",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        }
+      ],
+      "frases": {
+        "9313": [
+          "BORBOLETA 🦋 no terceiro prêmio!<br>com o palpite 9313",
+          "BORBOLETA 🦋 no oitavo prêmio!<br>com o palpite 9313"
+        ],
+        "9353": [
+          "GATO 🐈 no quarto prêmio!<br>com o palpite 9353"
+        ],
+        "9383": [
+          "TOURO 🐂 no sétimo prêmio!<br>com o palpite 9383"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🦋",
+          "🐈",
+          "🐂"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 1263, 1264, 4263, 4264, 9263, 9264"
+      "resumo": "Palpites dados para esta extração: 9313, 9353, 9363, 9383"
     }
   }
 }
