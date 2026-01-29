@@ -1,0 +1,220 @@
+{
+  "1-5": {
+    "SP, 08hs - PTSP": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "4376",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9123",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3052",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5816",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6035",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "8402",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "922",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1301": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1301"
+        ],
+        "1303": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1303"
+        ],
+        "1351": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 1351"
+        ],
+        "1601": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1601"
+        ],
+        "1603": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1603"
+        ],
+        "1651": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 1651"
+        ],
+        "1801": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1801"
+        ],
+        "1803": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1803"
+        ],
+        "1851": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 1851"
+        ],
+        "1901": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1901"
+        ],
+        "1903": [
+          "AVESTRUZ 🪶 no sexto prêmio!<br>com o palpite 1903"
+        ],
+        "1951": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 1951"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐓",
+          "🪶"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1301, 1303, 1307, 1351, 1353, 1357, 1381, 1383, 1387, 1601, 1603, 1607, 1651, 1653, 1657, 1681, 1683, 1687, 1801, 1803, 1807, 1851, 1853, 1857, 1881, 1883, 1887, 1901, 1903, 1907, 1951, 1953, 1957, 1981, 1983, 1987"
+    }
+  },
+  "1-10": {
+    "SP, 08hs - PTSP do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "4376",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9123",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "3052",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5816",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "6035",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "4935",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "3108",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "7251",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "6326",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "0022",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        }
+      ],
+      "frases": {
+        "1307": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 1307"
+        ],
+        "1351": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 1351",
+          "Dezena no oitavo prêmio!<br>com o palpite 1351",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 1351"
+        ],
+        "1607": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 1607"
+        ],
+        "1651": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 1651",
+          "Dezena no oitavo prêmio!<br>com o palpite 1651",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 1651"
+        ],
+        "1807": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 1807"
+        ],
+        "1851": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 1851",
+          "Dezena no oitavo prêmio!<br>com o palpite 1851",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 1851"
+        ],
+        "1907": [
+          "ÁGUIA 🦅 no sétimo prêmio!<br>com o palpite 1907"
+        ],
+        "1951": [
+          "GALO 🐓 no terceiro prêmio!<br>com o palpite 1951",
+          "Dezena no oitavo prêmio!<br>com o palpite 1951",
+          "GALO 🐓 no oitavo prêmio!<br>com o palpite 1951"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 4,
+        "Grupo": [
+          "🐓",
+          "🦅"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1301, 1303, 1307, 1351, 1353, 1357, 1381, 1383, 1387, 1601, 1603, 1607, 1651, 1653, 1657, 1681, 1683, 1687, 1801, 1803, 1807, 1851, 1853, 1857, 1881, 1883, 1887, 1901, 1903, 1907, 1951, 1953, 1957, 1981, 1983, 1987"
+    }
+  }
+}
