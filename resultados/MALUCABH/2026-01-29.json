@@ -10,74 +10,71 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "6533",
-          "Grupo": "09",
-          "Bicho": "Cobra"
+          "Milhar": "9281",
+          "Grupo": "21",
+          "Bicho": "Touro"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "8432",
-          "Grupo": "08",
-          "Bicho": "Camelo"
+          "Milhar": "6197",
+          "Grupo": "25",
+          "Bicho": "Vaca"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "9190",
-          "Grupo": "23",
-          "Bicho": "Urso"
+          "Milhar": "2352",
+          "Grupo": "13",
+          "Bicho": "Galo"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "2594",
-          "Grupo": "24",
-          "Bicho": "Veado"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "3237",
-          "Grupo": "10",
-          "Bicho": "Coelho"
-        },
-        {
-          "Prêmio": "6º",
-          "Milhar": "5445",
-          "Grupo": "12",
-          "Bicho": "Elefante"
-        },
-        {
-          "Prêmio": "7º",
-          "Milhar": "0422",
+          "Milhar": "5821",
           "Grupo": "06",
           "Bicho": "Cabra"
         },
         {
-          "Prêmio": "8º",
-          "Milhar": "6711",
+          "Prêmio": "5º",
+          "Milhar": "0110",
           "Grupo": "03",
           "Bicho": "Burro"
         },
         {
+          "Prêmio": "6º",
+          "Milhar": "4863",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "6238",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "0691",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
           "Prêmio": "9º",
-          "Milhar": "4860",
-          "Grupo": "15",
-          "Bicho": "Jacaré"
+          "Milhar": "1216",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "9065",
-          "Grupo": "17",
-          "Bicho": "Macaco"
+          "Milhar": "8964",
+          "Grupo": "16",
+          "Bicho": "Leão"
         }
       ],
       "frases": {
         "1589": [
-          "URSO 🐻 no terceiro prêmio!<br>com o palpite 1589"
-        ],
-        "1789": [
-          "URSO 🐻 no terceiro prêmio!<br>com o palpite 1789"
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 1589"
         ],
         "1889": [
-          "URSO 🐻 no terceiro prêmio!<br>com o palpite 1889"
+          "URSO 🐻 no oitavo prêmio!<br>com o palpite 1889"
         ]
       },
       "acertos": {
@@ -88,7 +85,7 @@
           "🐻"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1589, 1789, 1889"
+      "resumo": "Palpites dados para esta extração: 1589, 1889"
     },
     "12h - MALUCA - BA": {
       "cabecalhos": [
