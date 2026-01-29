@@ -106,73 +106,80 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "2319",
-          "Grupo": "05",
-          "Bicho": "Cachorro"
-        },
-        {
-          "Prêmio": "2º",
-          "Milhar": "8346",
-          "Grupo": "12",
-          "Bicho": "Elefante"
-        },
-        {
-          "Prêmio": "3º",
-          "Milhar": "3276",
-          "Grupo": "19",
-          "Bicho": "Pavão"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "3938",
-          "Grupo": "10",
-          "Bicho": "Coelho"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "9589",
+          "Milhar": "2692",
           "Grupo": "23",
           "Bicho": "Urso"
         },
         {
+          "Prêmio": "2º",
+          "Milhar": "4122",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6023",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "3493",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5159",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
           "Prêmio": "6º",
-          "Milhar": "2833",
-          "Grupo": "09",
-          "Bicho": "Cobra"
+          "Milhar": "2463",
+          "Grupo": "16",
+          "Bicho": "Leão"
         },
         {
           "Prêmio": "7º",
-          "Milhar": "3329",
+          "Milhar": "6104",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "9229",
           "Grupo": "08",
           "Bicho": "Camelo"
         },
         {
-          "Prêmio": "8º",
-          "Milhar": "1473",
-          "Grupo": "19",
-          "Bicho": "Pavão"
-        },
-        {
           "Prêmio": "9º",
-          "Milhar": "9668",
-          "Grupo": "17",
-          "Bicho": "Macaco"
+          "Milhar": "2233",
+          "Grupo": "09",
+          "Bicho": "Cobra"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "4771",
-          "Grupo": "18",
-          "Bicho": "Porco"
+          "Milhar": "1518",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
         }
       ],
-      "frases": {},
+      "frases": {
+        "9363": [
+          "Dezena no sexto prêmio!<br>com o palpite 9363",
+          "LEÃO 🦁 no sexto prêmio!<br>com o palpite 9363"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 1,
+        "Grupo": [
+          "🦁"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 8360, 8363, 8460, 8463, 8660, 8663, 8760, 8763, 8860, 8863"
+      "resumo": "Palpites dados para esta extração: 9363"
     },
     "LOTEP - PB, 12:45": {
       "cabecalhos": [
