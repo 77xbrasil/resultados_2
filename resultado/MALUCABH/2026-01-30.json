@@ -10,124 +10,141 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "9281",
-          "Grupo": "21",
-          "Bicho": "Touro"
-        },
-        {
-          "Prêmio": "2º",
-          "Milhar": "6197",
+          "Milhar": "8398",
           "Grupo": "25",
           "Bicho": "Vaca"
         },
         {
+          "Prêmio": "2º",
+          "Milhar": "8003",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
           "Prêmio": "3º",
-          "Milhar": "2352",
-          "Grupo": "13",
-          "Bicho": "Galo"
-        },
-        {
-          "Prêmio": "4º",
-          "Milhar": "5821",
-          "Grupo": "06",
-          "Bicho": "Cabra"
-        },
-        {
-          "Prêmio": "5º",
-          "Milhar": "0110",
-          "Grupo": "03",
-          "Bicho": "Burro"
-        },
-        {
-          "Prêmio": "6º",
-          "Milhar": "4863",
-          "Grupo": "16",
-          "Bicho": "Leão"
-        },
-        {
-          "Prêmio": "7º",
-          "Milhar": "6238",
-          "Grupo": "10",
-          "Bicho": "Coelho"
-        },
-        {
-          "Prêmio": "8º",
-          "Milhar": "0691",
-          "Grupo": "23",
-          "Bicho": "Urso"
-        },
-        {
-          "Prêmio": "9º",
-          "Milhar": "1216",
+          "Milhar": "2013",
           "Grupo": "04",
           "Bicho": "Borboleta"
         },
         {
+          "Prêmio": "4º",
+          "Milhar": "3436",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4804",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "1711",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "2824",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "0520",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "7297",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
           "Prêmio": "10º",
-          "Milhar": "8964",
-          "Grupo": "16",
-          "Bicho": "Leão"
+          "Milhar": "4685",
+          "Grupo": "22",
+          "Bicho": "Tigre"
         }
       ],
       "frases": {
-        "1092": [
-          "URSO 🐻 no oitavo prêmio!<br>com o palpite 1092"
+        "1901": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 1901",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 1901"
         ],
-        "1192": [
-          "URSO 🐻 no oitavo prêmio!<br>com o palpite 1192"
+        "1902": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 1902",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 1902"
         ],
-        "1692": [
-          "URSO 🐻 no oitavo prêmio!<br>com o palpite 1692"
+        "1903": [
+          "Dezena no segundo prêmio!<br>com o palpite 1903",
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 1903",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 1903"
         ],
-        "1892": [
-          "URSO 🐻 no oitavo prêmio!<br>com o palpite 1892"
+        "1988": [
+          "TIGRE 🐅 no décimo prêmio!<br>com o palpite 1988"
         ],
-        "3092": [
-          "URSO 🐻 no oitavo prêmio!<br>com o palpite 3092"
+        "3901": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 3901",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 3901"
         ],
-        "3192": [
-          "URSO 🐻 no oitavo prêmio!<br>com o palpite 3192"
+        "3902": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 3902",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 3902"
         ],
-        "3692": [
-          "URSO 🐻 no oitavo prêmio!<br>com o palpite 3692"
+        "3903": [
+          "Dezena no segundo prêmio!<br>com o palpite 3903",
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 3903",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 3903"
         ],
-        "3892": [
-          "URSO 🐻 no oitavo prêmio!<br>com o palpite 3892"
+        "3988": [
+          "TIGRE 🐅 no décimo prêmio!<br>com o palpite 3988"
         ],
-        "5092": [
-          "URSO 🐻 no oitavo prêmio!<br>com o palpite 5092"
+        "4901": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 4901",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 4901"
         ],
-        "5192": [
-          "URSO 🐻 no oitavo prêmio!<br>com o palpite 5192"
+        "4902": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 4902",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 4902"
         ],
-        "5692": [
-          "URSO 🐻 no oitavo prêmio!<br>com o palpite 5692"
+        "4903": [
+          "Dezena no segundo prêmio!<br>com o palpite 4903",
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 4903",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 4903"
         ],
-        "5892": [
-          "URSO 🐻 no oitavo prêmio!<br>com o palpite 5892"
+        "4988": [
+          "TIGRE 🐅 no décimo prêmio!<br>com o palpite 4988"
         ],
-        "8092": [
-          "URSO 🐻 no oitavo prêmio!<br>com o palpite 8092"
+        "8901": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 8901",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 8901"
         ],
-        "8192": [
-          "URSO 🐻 no oitavo prêmio!<br>com o palpite 8192"
+        "8902": [
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 8902",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 8902"
         ],
-        "8692": [
-          "URSO 🐻 no oitavo prêmio!<br>com o palpite 8692"
+        "8903": [
+          "Dezena no segundo prêmio!<br>com o palpite 8903",
+          "AVESTRUZ 🪶 no segundo prêmio!<br>com o palpite 8903",
+          "AVESTRUZ 🪶 no quinto prêmio!<br>com o palpite 8903"
         ],
-        "8892": [
-          "URSO 🐻 no oitavo prêmio!<br>com o palpite 8892"
+        "8988": [
+          "TIGRE 🐅 no décimo prêmio!<br>com o palpite 8988"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 4,
         "Grupo": [
-          "🐻"
+          "🪶",
+          "🐅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1002, 1003, 1092, 1093, 1102, 1103, 1192, 1193, 1602, 1603, 1692, 1693, 1802, 1803, 1892, 1893, 3002, 3003, 3092, 3093, 3102, 3103, 3192, 3193, 3602, 3603, 3692, 3693, 3802, 3803, 3892, 3893, 5002, 5003, 5092, 5093, 5102, 5103, 5192, 5193, 5602, 5603, 5692, 5693, 5802, 5803, 5892, 5893, 8002, 8003, 8092, 8093, 8102, 8103, 8192, 8193, 8602, 8603, 8692, 8693, 8802, 8803, 8892, 8893"
+      "resumo": "Palpites dados para esta extração: 1901, 1902, 1903, 1908, 1981, 1982, 1983, 1988, 3901, 3902, 3903, 3908, 3981, 3982, 3983, 3988, 4901, 4902, 4903, 4908, 4981, 4982, 4983, 4988, 8901, 8902, 8903, 8908, 8981, 8982, 8983, 8988"
     },
     "12h - MALUCA - BA": {
       "cabecalhos": [
