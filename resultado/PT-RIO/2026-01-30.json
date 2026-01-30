@@ -1,0 +1,238 @@
+{
+  "1-5": {
+    "PT-RIO, RJ, 09:20, PT": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6806",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9852",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7455",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0982",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4729",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "9824",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "052",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1022": [
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 1022"
+        ],
+        "1029": [
+          "Dezena no quinto prêmio!<br>com o palpite 1029",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 1029"
+        ],
+        "1032": [
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 1032"
+        ],
+        "1049": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 1049",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 1049"
+        ],
+        "1082": [
+          "Dezena no quarto prêmio!<br>com o palpite 1082",
+          "TOURO 🐂 no quarto prêmio!<br>com o palpite 1082"
+        ],
+        "7022": [
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 7022"
+        ],
+        "7029": [
+          "Dezena no quinto prêmio!<br>com o palpite 7029",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 7029"
+        ],
+        "7032": [
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 7032"
+        ],
+        "7049": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 7049",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 7049"
+        ],
+        "7082": [
+          "Dezena no quarto prêmio!<br>com o palpite 7082",
+          "TOURO 🐂 no quarto prêmio!<br>com o palpite 7082"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 4,
+        "Grupo": [
+          "🐓",
+          "🐂",
+          "🐪",
+          "🐐"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1012, 1015, 1019, 1022, 1025, 1029, 1032, 1035, 1039, 1042, 1045, 1049, 1062, 1065, 1069, 1072, 1075, 1079, 1082, 1085, 1089, 1092, 1095, 1099, 7012, 7015, 7019, 7022, 7025, 7029, 7032, 7035, 7039, 7042, 7045, 7049, 7062, 7065, 7069, 7072, 7075, 7079, 7082, 7085, 7089, 7092, 7095, 7099"
+    }
+  },
+  "1-10": {
+    "PT-RIO, RJ, 09:20, PT do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "6806",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "9852",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7455",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0982",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4729",
+          "Grupo": "08",
+          "Bicho": "Camelo"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "6970",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "8849",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "0558",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "6252",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "2453",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        }
+      ],
+      "frases": {
+        "1029": [
+          "Dezena no quinto prêmio!<br>com o palpite 1029",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 1029"
+        ],
+        "1032": [
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 1032"
+        ],
+        "1049": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 1049",
+          "Dezena no sétimo prêmio!<br>com o palpite 1049",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 1049",
+          "GALO 🐓 no nono prêmio!<br>com o palpite 1049"
+        ],
+        "1069": [
+          "PORCO 🐖 no sexto prêmio!<br>com o palpite 1069"
+        ],
+        "1072": [
+          "PORCO 🐖 no sexto prêmio!<br>com o palpite 1072"
+        ],
+        "1082": [
+          "Dezena no quarto prêmio!<br>com o palpite 1082",
+          "TOURO 🐂 no quarto prêmio!<br>com o palpite 1082"
+        ],
+        "7029": [
+          "Dezena no quinto prêmio!<br>com o palpite 7029",
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 7029"
+        ],
+        "7032": [
+          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 7032"
+        ],
+        "7049": [
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 7049",
+          "Dezena no sétimo prêmio!<br>com o palpite 7049",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 7049",
+          "GALO 🐓 no nono prêmio!<br>com o palpite 7049"
+        ],
+        "7069": [
+          "PORCO 🐖 no sexto prêmio!<br>com o palpite 7069"
+        ],
+        "7072": [
+          "PORCO 🐖 no sexto prêmio!<br>com o palpite 7072"
+        ],
+        "7082": [
+          "Dezena no quarto prêmio!<br>com o palpite 7082",
+          "TOURO 🐂 no quarto prêmio!<br>com o palpite 7082"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 6,
+        "Grupo": [
+          "🐓",
+          "🐂",
+          "🐪",
+          "🐖"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1012, 1015, 1019, 1022, 1025, 1029, 1032, 1035, 1039, 1042, 1045, 1049, 1062, 1065, 1069, 1072, 1075, 1079, 1082, 1085, 1089, 1092, 1095, 1099, 7012, 7015, 7019, 7022, 7025, 7029, 7032, 7035, 7039, 7042, 7045, 7049, 7062, 7065, 7069, 7072, 7075, 7079, 7082, 7085, 7089, 7092, 7095, 7099"
+    }
+  }
+}
