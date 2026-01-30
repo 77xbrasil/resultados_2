@@ -69,14 +69,36 @@
           "Bicho": "Pavão"
         }
       ],
-      "frases": {},
+      "frases": {
+        "5444": [
+          "CAVALO 🐎 no sétimo prêmio!<br>com o palpite 5444"
+        ],
+        "5454": [
+          "Dezena no primeiro prêmio!<br>com o palpite 5454",
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 5454"
+        ],
+        "5455": [
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 5455"
+        ],
+        "5456": [
+          "GATO 🐈 no primeiro prêmio!<br>com o palpite 5456"
+        ],
+        "5458": [
+          "Dezena no nono prêmio!<br>com o palpite 5458",
+          "JACARÉ 🐊 no nono prêmio!<br>com o palpite 5458"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
-        "Grupo": []
+        "Dezena": 2,
+        "Grupo": [
+          "🐈",
+          "🐎",
+          "🐊"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 5446"
+      "resumo": "Palpites dados para esta extração: 5444, 5445, 5446, 5448, 5454, 5455, 5456, 5458"
     },
     "LOTEP - PB, 12:45": {
       "cabecalhos": [
@@ -88,79 +110,84 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "1570",
-          "Grupo": "18",
-          "Bicho": "Porco"
+          "Milhar": "9357",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "5193",
-          "Grupo": "24",
-          "Bicho": "Veado"
+          "Milhar": "4012",
+          "Grupo": "03",
+          "Bicho": "Burro"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "2717",
-          "Grupo": "05",
-          "Bicho": "Cachorro"
+          "Milhar": "2764",
+          "Grupo": "16",
+          "Bicho": "Leão"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "0899",
-          "Grupo": "25",
-          "Bicho": "Vaca"
+          "Milhar": "5474",
+          "Grupo": "19",
+          "Bicho": "Pavão"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "4529",
-          "Grupo": "08",
-          "Bicho": "Camelo"
+          "Milhar": "9019",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
         },
         {
           "Prêmio": "6º",
-          "Milhar": "1520",
-          "Grupo": "05",
-          "Bicho": "Cachorro"
+          "Milhar": "9425",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
         },
         {
           "Prêmio": "7º",
-          "Milhar": "5178",
-          "Grupo": "20",
-          "Bicho": "Peru"
+          "Milhar": "3074",
+          "Grupo": "19",
+          "Bicho": "Pavão"
         },
         {
           "Prêmio": "8º",
-          "Milhar": "7919",
-          "Grupo": "05",
-          "Bicho": "Cachorro"
+          "Milhar": "5167",
+          "Grupo": "17",
+          "Bicho": "Macaco"
         },
         {
           "Prêmio": "9º",
-          "Milhar": "0379",
-          "Grupo": "20",
-          "Bicho": "Peru"
+          "Milhar": "7244",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
         },
         {
           "Prêmio": "10º",
-          "Milhar": "9904",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
+          "Milhar": "5536",
+          "Grupo": "09",
+          "Bicho": "Cobra"
         }
       ],
       "frases": {
-        "5496": [
-          "VEADO 🦌 no segundo prêmio!<br>com o palpite 5496"
+        "5444": [
+          "Dezena no nono prêmio!<br>com o palpite 5444",
+          "CAVALO 🐎 no nono prêmio!<br>com o palpite 5444"
+        ],
+        "5458": [
+          "JACARÉ 🐊 no primeiro prêmio!<br>com o palpite 5458"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 0,
+        "Dezena": 1,
         "Grupo": [
-          "🦌"
+          "🐊",
+          "🐎"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 5426, 5446, 5456, 5466, 5496"
+      "resumo": "Palpites dados para esta extração: 5444, 5445, 5446, 5448, 5454, 5455, 5456, 5458"
     },
     "LOTEP - PB, 15:45h": {
       "cabecalhos": [
