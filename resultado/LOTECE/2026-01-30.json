@@ -10,100 +10,92 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "6089",
+          "Milhar": "4668",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "0592",
           "Grupo": "23",
           "Bicho": "Urso"
         },
         {
-          "Prêmio": "2º",
-          "Milhar": "6941",
-          "Grupo": "11",
-          "Bicho": "Cavalo"
-        },
-        {
           "Prêmio": "3º",
-          "Milhar": "5017",
+          "Milhar": "1418",
           "Grupo": "05",
           "Bicho": "Cachorro"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "7173",
-          "Grupo": "19",
-          "Bicho": "Pavão"
+          "Milhar": "5166",
+          "Grupo": "17",
+          "Bicho": "Macaco"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "1203",
-          "Grupo": "01",
-          "Bicho": "Avestruz"
+          "Milhar": "9006",
+          "Grupo": "02",
+          "Bicho": "Águia"
         },
         {
           "Prêmio": "6º",
-          "Milhar": "9658",
-          "Grupo": "15",
-          "Bicho": "Jacaré"
+          "Milhar": "9364",
+          "Grupo": "16",
+          "Bicho": "Leão"
         },
         {
           "Prêmio": "7º",
-          "Milhar": "0222",
-          "Grupo": "06",
-          "Bicho": "Cabra"
+          "Milhar": "9369",
+          "Grupo": "18",
+          "Bicho": "Porco"
         },
         {
           "Prêmio": "8º",
-          "Milhar": "6074",
-          "Grupo": "19",
-          "Bicho": "Pavão"
-        },
-        {
-          "Prêmio": "9º",
-          "Milhar": "6616",
+          "Milhar": "8115",
           "Grupo": "04",
           "Bicho": "Borboleta"
         },
         {
+          "Prêmio": "9º",
+          "Milhar": "9445",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
           "Prêmio": "10º",
-          "Milhar": "4430",
-          "Grupo": "08",
-          "Bicho": "Camelo"
+          "Milhar": "2992",
+          "Grupo": "23",
+          "Bicho": "Urso"
         }
       ],
       "frases": {
-        "6075": [
-          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 6075",
-          "PAVÃO 🦚 no oitavo prêmio!<br>com o palpite 6075"
+        "9006": [
+          "Milhar e Centena no quinto prêmio!<br>com o palpite 9006",
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 9006",
+          "Dezena no quinto prêmio!<br>com o palpite 9006",
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 9006"
         ],
-        "6375": [
-          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 6375",
-          "PAVÃO 🦚 no oitavo prêmio!<br>com o palpite 6375"
+        "9008": [
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 9008"
         ],
-        "6575": [
-          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 6575",
-          "PAVÃO 🦚 no oitavo prêmio!<br>com o palpite 6575"
+        "9606": [
+          "Dezena no quinto prêmio!<br>com o palpite 9606",
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 9606"
         ],
-        "9075": [
-          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 9075",
-          "PAVÃO 🦚 no oitavo prêmio!<br>com o palpite 9075"
-        ],
-        "9375": [
-          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 9375",
-          "PAVÃO 🦚 no oitavo prêmio!<br>com o palpite 9375"
-        ],
-        "9575": [
-          "PAVÃO 🦚 no quarto prêmio!<br>com o palpite 9575",
-          "PAVÃO 🦚 no oitavo prêmio!<br>com o palpite 9575"
+        "9608": [
+          "ÁGUIA 🦅 no quinto prêmio!<br>com o palpite 9608"
         ]
       },
       "acertos": {
-        "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 0,
+        "Milhar": 1,
+        "Centena": 1,
+        "Dezena": 2,
         "Grupo": [
-          "🦚"
+          "🦅"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 6045, 6065, 6075, 6345, 6365, 6375, 6545, 6565, 6575, 9045, 9065, 9075, 9345, 9365, 9375, 9545, 9565, 9575"
+      "resumo": "Palpites dados para esta extração: 9000, 9003, 9006, 9008, 9050, 9053, 9056, 9058, 9080, 9083, 9086, 9088, 9600, 9603, 9606, 9608, 9650, 9653, 9656, 9658, 9680, 9683, 9686, 9688"
     },
     "LOTECE - CE, 14:00 (tarde)": {
       "cabecalhos": [
