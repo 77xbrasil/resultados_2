@@ -52,6 +52,12 @@
         }
       ],
       "frases": {
+        "1033": [
+          "Dezena no quarto prêmio!<br>com o palpite 1033",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 1033",
+          "Dezena no quinto prêmio!<br>com o palpite 1033",
+          "COBRA 🐍 no quinto prêmio!<br>com o palpite 1033"
+        ],
         "1333": [
           "Dezena no quarto prêmio!<br>com o palpite 1333",
           "COBRA 🐍 no quarto prêmio!<br>com o palpite 1333",
@@ -64,11 +70,11 @@
           "Dezena no quinto prêmio!<br>com o palpite 1833",
           "COBRA 🐍 no quinto prêmio!<br>com o palpite 1833"
         ],
-        "1933": [
-          "Dezena no quarto prêmio!<br>com o palpite 1933",
-          "COBRA 🐍 no quarto prêmio!<br>com o palpite 1933",
-          "Dezena no quinto prêmio!<br>com o palpite 1933",
-          "COBRA 🐍 no quinto prêmio!<br>com o palpite 1933"
+        "3033": [
+          "Dezena no quarto prêmio!<br>com o palpite 3033",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 3033",
+          "Dezena no quinto prêmio!<br>com o palpite 3033",
+          "COBRA 🐍 no quinto prêmio!<br>com o palpite 3033"
         ],
         "3333": [
           "Dezena no quarto prêmio!<br>com o palpite 3333",
@@ -82,29 +88,11 @@
           "Dezena no quinto prêmio!<br>com o palpite 3833",
           "COBRA 🐍 no quinto prêmio!<br>com o palpite 3833"
         ],
-        "3933": [
-          "Dezena no quarto prêmio!<br>com o palpite 3933",
-          "COBRA 🐍 no quarto prêmio!<br>com o palpite 3933",
-          "Dezena no quinto prêmio!<br>com o palpite 3933",
-          "COBRA 🐍 no quinto prêmio!<br>com o palpite 3933"
-        ],
-        "7333": [
-          "Dezena no quarto prêmio!<br>com o palpite 7333",
-          "COBRA 🐍 no quarto prêmio!<br>com o palpite 7333",
-          "Dezena no quinto prêmio!<br>com o palpite 7333",
-          "COBRA 🐍 no quinto prêmio!<br>com o palpite 7333"
-        ],
-        "7833": [
-          "Dezena no quarto prêmio!<br>com o palpite 7833",
-          "COBRA 🐍 no quarto prêmio!<br>com o palpite 7833",
-          "Dezena no quinto prêmio!<br>com o palpite 7833",
-          "COBRA 🐍 no quinto prêmio!<br>com o palpite 7833"
-        ],
-        "7933": [
-          "Dezena no quarto prêmio!<br>com o palpite 7933",
-          "COBRA 🐍 no quarto prêmio!<br>com o palpite 7933",
-          "Dezena no quinto prêmio!<br>com o palpite 7933",
-          "COBRA 🐍 no quinto prêmio!<br>com o palpite 7933"
+        "0033": [
+          "Dezena no quarto prêmio!<br>com o palpite 0033",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 0033",
+          "Dezena no quinto prêmio!<br>com o palpite 0033",
+          "COBRA 🐍 no quinto prêmio!<br>com o palpite 0033"
         ],
         "0333": [
           "Dezena no quarto prêmio!<br>com o palpite 0333",
@@ -117,23 +105,17 @@
           "COBRA 🐍 no quarto prêmio!<br>com o palpite 0833",
           "Dezena no quinto prêmio!<br>com o palpite 0833",
           "COBRA 🐍 no quinto prêmio!<br>com o palpite 0833"
-        ],
-        "0933": [
-          "Dezena no quarto prêmio!<br>com o palpite 0933",
-          "COBRA 🐍 no quarto prêmio!<br>com o palpite 0933",
-          "Dezena no quinto prêmio!<br>com o palpite 0933",
-          "COBRA 🐍 no quinto prêmio!<br>com o palpite 0933"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 24,
+        "Dezena": 18,
         "Grupo": [
           "🐍"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0323, 0333, 0373, 0393, 0823, 0833, 0873, 0893, 0923, 0933, 0973, 0993, 1323, 1333, 1373, 1393, 1823, 1833, 1873, 1893, 1923, 1933, 1973, 1993, 3323, 3333, 3373, 3393, 3823, 3833, 3873, 3893, 3923, 3933, 3973, 3993, 7323, 7333, 7373, 7393, 7823, 7833, 7873, 7893, 7923, 7933, 7973, 7993"
+      "resumo": "Palpites dados para esta extração: 0033, 0333, 0833, 1033, 1333, 1833, 3033, 3333, 3833"
     },
     "LOOK - GOIÁS, 09h": {
       "cabecalhos": [
@@ -187,6 +169,10 @@
         }
       ],
       "frases": {
+        "1033": [
+          "Dezena no quarto prêmio!<br>com o palpite 1033",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 1033"
+        ],
         "1333": [
           "Centena e Dezena no quarto prêmio!<br>com o palpite 1333",
           "Dezena no quarto prêmio!<br>com o palpite 1333",
@@ -196,9 +182,9 @@
           "Dezena no quarto prêmio!<br>com o palpite 1833",
           "COBRA 🐍 no quarto prêmio!<br>com o palpite 1833"
         ],
-        "1933": [
-          "Dezena no quarto prêmio!<br>com o palpite 1933",
-          "COBRA 🐍 no quarto prêmio!<br>com o palpite 1933"
+        "3033": [
+          "Dezena no quarto prêmio!<br>com o palpite 3033",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 3033"
         ],
         "3333": [
           "Milhar e Centena no quarto prêmio!<br>com o palpite 3333",
@@ -210,22 +196,9 @@
           "Dezena no quarto prêmio!<br>com o palpite 3833",
           "COBRA 🐍 no quarto prêmio!<br>com o palpite 3833"
         ],
-        "3933": [
-          "Dezena no quarto prêmio!<br>com o palpite 3933",
-          "COBRA 🐍 no quarto prêmio!<br>com o palpite 3933"
-        ],
-        "7333": [
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 7333",
-          "Dezena no quarto prêmio!<br>com o palpite 7333",
-          "COBRA 🐍 no quarto prêmio!<br>com o palpite 7333"
-        ],
-        "7833": [
-          "Dezena no quarto prêmio!<br>com o palpite 7833",
-          "COBRA 🐍 no quarto prêmio!<br>com o palpite 7833"
-        ],
-        "7933": [
-          "Dezena no quarto prêmio!<br>com o palpite 7933",
-          "COBRA 🐍 no quarto prêmio!<br>com o palpite 7933"
+        "0033": [
+          "Dezena no quarto prêmio!<br>com o palpite 0033",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 0033"
         ],
         "0333": [
           "Centena e Dezena no quarto prêmio!<br>com o palpite 0333",
@@ -235,21 +208,17 @@
         "0833": [
           "Dezena no quarto prêmio!<br>com o palpite 0833",
           "COBRA 🐍 no quarto prêmio!<br>com o palpite 0833"
-        ],
-        "0933": [
-          "Dezena no quarto prêmio!<br>com o palpite 0933",
-          "COBRA 🐍 no quarto prêmio!<br>com o palpite 0933"
         ]
       },
       "acertos": {
         "Milhar": 1,
-        "Centena": 4,
-        "Dezena": 12,
+        "Centena": 3,
+        "Dezena": 9,
         "Grupo": [
           "🐍"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0323, 0333, 0373, 0393, 0823, 0833, 0873, 0893, 0923, 0933, 0973, 0993, 1323, 1333, 1373, 1393, 1823, 1833, 1873, 1893, 1923, 1933, 1973, 1993, 3323, 3333, 3373, 3393, 3823, 3833, 3873, 3893, 3923, 3933, 3973, 3993, 7323, 7333, 7373, 7393, 7823, 7833, 7873, 7893, 7923, 7933, 7973, 7993"
+      "resumo": "Palpites dados para esta extração: 0033, 0333, 0833, 1033, 1333, 1833, 3033, 3333, 3833"
     },
     "LOOK - GOIÁS, 11h": {
       "cabecalhos": [
@@ -303,101 +272,160 @@
         }
       ],
       "frases": {
-        "1323": [
-          "Dezena no quinto prêmio!<br>com o palpite 1323",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 1323"
+        "1033": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 1033"
         ],
         "1333": [
           "COBRA 🐍 no primeiro prêmio!<br>com o palpite 1333"
         ],
-        "1823": [
-          "Dezena no quinto prêmio!<br>com o palpite 1823",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 1823"
-        ],
         "1833": [
           "COBRA 🐍 no primeiro prêmio!<br>com o palpite 1833"
         ],
-        "1923": [
-          "Dezena no quinto prêmio!<br>com o palpite 1923",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 1923"
-        ],
-        "1933": [
-          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 1933"
-        ],
-        "3323": [
-          "Dezena no quinto prêmio!<br>com o palpite 3323",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 3323"
+        "3033": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 3033"
         ],
         "3333": [
           "COBRA 🐍 no primeiro prêmio!<br>com o palpite 3333"
         ],
-        "3823": [
-          "Dezena no quinto prêmio!<br>com o palpite 3823",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 3823"
-        ],
         "3833": [
           "COBRA 🐍 no primeiro prêmio!<br>com o palpite 3833"
         ],
-        "3923": [
-          "Dezena no quinto prêmio!<br>com o palpite 3923",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 3923"
-        ],
-        "3933": [
-          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 3933"
-        ],
-        "7323": [
-          "Dezena no quinto prêmio!<br>com o palpite 7323",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 7323"
-        ],
-        "7333": [
-          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 7333"
-        ],
-        "7823": [
-          "Dezena no quinto prêmio!<br>com o palpite 7823",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 7823"
-        ],
-        "7833": [
-          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 7833"
-        ],
-        "7923": [
-          "Dezena no quinto prêmio!<br>com o palpite 7923",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 7923"
-        ],
-        "7933": [
-          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 7933"
+        "0033": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 0033"
         ],
         "0333": [
           "COBRA 🐍 no primeiro prêmio!<br>com o palpite 0333"
         ],
         "0833": [
           "COBRA 🐍 no primeiro prêmio!<br>com o palpite 0833"
-        ],
-        "0933": [
-          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 0933"
-        ],
-        "0323": [
-          "Dezena no quinto prêmio!<br>com o palpite 0323",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0323"
-        ],
-        "0823": [
-          "Dezena no quinto prêmio!<br>com o palpite 0823",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0823"
-        ],
-        "0923": [
-          "Dezena no quinto prêmio!<br>com o palpite 0923",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0923"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 12,
+        "Dezena": 0,
         "Grupo": [
-          "🐍",
-          "🐐"
+          "🐍"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0323, 0333, 0373, 0393, 0823, 0833, 0873, 0893, 0923, 0933, 0973, 0993, 1323, 1333, 1373, 1393, 1823, 1833, 1873, 1893, 1923, 1933, 1973, 1993, 3323, 3333, 3373, 3393, 3823, 3833, 3873, 3893, 3923, 3933, 3973, 3993, 7323, 7333, 7373, 7393, 7823, 7833, 7873, 7893, 7923, 7933, 7973, 7993"
+      "resumo": "Palpites dados para esta extração: 0033, 0333, 0833, 1033, 1333, 1833, 3033, 3333, 3833"
+    },
+    "LOOK - GOIÁS, 14h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "8876",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4161",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5962",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8733",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1348",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "9080",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "933",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1033": [
+          "Dezena no quarto prêmio!<br>com o palpite 1033",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 1033",
+          "Dezena no sétimo prêmio!<br>com o palpite 1033",
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 1033"
+        ],
+        "1333": [
+          "Dezena no quarto prêmio!<br>com o palpite 1333",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 1333",
+          "Dezena no sétimo prêmio!<br>com o palpite 1333",
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 1333"
+        ],
+        "1833": [
+          "Dezena no quarto prêmio!<br>com o palpite 1833",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 1833",
+          "Dezena no sétimo prêmio!<br>com o palpite 1833",
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 1833"
+        ],
+        "3033": [
+          "Dezena no quarto prêmio!<br>com o palpite 3033",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 3033",
+          "Dezena no sétimo prêmio!<br>com o palpite 3033",
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 3033"
+        ],
+        "3333": [
+          "Dezena no quarto prêmio!<br>com o palpite 3333",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 3333",
+          "Dezena no sétimo prêmio!<br>com o palpite 3333",
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 3333"
+        ],
+        "3833": [
+          "Dezena no quarto prêmio!<br>com o palpite 3833",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 3833",
+          "Dezena no sétimo prêmio!<br>com o palpite 3833",
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 3833"
+        ],
+        "0033": [
+          "Dezena no quarto prêmio!<br>com o palpite 0033",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 0033",
+          "Dezena no sétimo prêmio!<br>com o palpite 0033",
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 0033"
+        ],
+        "0333": [
+          "Dezena no quarto prêmio!<br>com o palpite 0333",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 0333",
+          "Dezena no sétimo prêmio!<br>com o palpite 0333",
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 0333"
+        ],
+        "0833": [
+          "Dezena no quarto prêmio!<br>com o palpite 0833",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 0833",
+          "Dezena no sétimo prêmio!<br>com o palpite 0833",
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 0833"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 18,
+        "Grupo": [
+          "🐍"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0033, 0333, 0833, 1033, 1333, 1833, 3033, 3333, 3833"
     }
   },
   "1-10": {
@@ -471,9 +499,11 @@
         }
       ],
       "frases": {
-        "1323": [
-          "Dezena no oitavo prêmio!<br>com o palpite 1323",
-          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 1323"
+        "1033": [
+          "Dezena no quarto prêmio!<br>com o palpite 1033",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 1033",
+          "Dezena no quinto prêmio!<br>com o palpite 1033",
+          "COBRA 🐍 no quinto prêmio!<br>com o palpite 1033"
         ],
         "1333": [
           "Dezena no quarto prêmio!<br>com o palpite 1333",
@@ -481,31 +511,17 @@
           "Dezena no quinto prêmio!<br>com o palpite 1333",
           "COBRA 🐍 no quinto prêmio!<br>com o palpite 1333"
         ],
-        "1823": [
-          "Milhar e Centena no oitavo prêmio!<br>com o palpite 1823",
-          "Centena e Dezena no oitavo prêmio!<br>com o palpite 1823",
-          "Dezena no oitavo prêmio!<br>com o palpite 1823",
-          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 1823"
-        ],
         "1833": [
           "Dezena no quarto prêmio!<br>com o palpite 1833",
           "COBRA 🐍 no quarto prêmio!<br>com o palpite 1833",
           "Dezena no quinto prêmio!<br>com o palpite 1833",
           "COBRA 🐍 no quinto prêmio!<br>com o palpite 1833"
         ],
-        "1923": [
-          "Dezena no oitavo prêmio!<br>com o palpite 1923",
-          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 1923"
-        ],
-        "1933": [
-          "Dezena no quarto prêmio!<br>com o palpite 1933",
-          "COBRA 🐍 no quarto prêmio!<br>com o palpite 1933",
-          "Dezena no quinto prêmio!<br>com o palpite 1933",
-          "COBRA 🐍 no quinto prêmio!<br>com o palpite 1933"
-        ],
-        "3323": [
-          "Dezena no oitavo prêmio!<br>com o palpite 3323",
-          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 3323"
+        "3033": [
+          "Dezena no quarto prêmio!<br>com o palpite 3033",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 3033",
+          "Dezena no quinto prêmio!<br>com o palpite 3033",
+          "COBRA 🐍 no quinto prêmio!<br>com o palpite 3033"
         ],
         "3333": [
           "Dezena no quarto prêmio!<br>com o palpite 3333",
@@ -513,57 +529,17 @@
           "Dezena no quinto prêmio!<br>com o palpite 3333",
           "COBRA 🐍 no quinto prêmio!<br>com o palpite 3333"
         ],
-        "3823": [
-          "Centena e Dezena no oitavo prêmio!<br>com o palpite 3823",
-          "Dezena no oitavo prêmio!<br>com o palpite 3823",
-          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 3823"
-        ],
         "3833": [
           "Dezena no quarto prêmio!<br>com o palpite 3833",
           "COBRA 🐍 no quarto prêmio!<br>com o palpite 3833",
           "Dezena no quinto prêmio!<br>com o palpite 3833",
           "COBRA 🐍 no quinto prêmio!<br>com o palpite 3833"
         ],
-        "3923": [
-          "Dezena no oitavo prêmio!<br>com o palpite 3923",
-          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 3923"
-        ],
-        "3933": [
-          "Dezena no quarto prêmio!<br>com o palpite 3933",
-          "COBRA 🐍 no quarto prêmio!<br>com o palpite 3933",
-          "Dezena no quinto prêmio!<br>com o palpite 3933",
-          "COBRA 🐍 no quinto prêmio!<br>com o palpite 3933"
-        ],
-        "7323": [
-          "Dezena no oitavo prêmio!<br>com o palpite 7323",
-          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 7323"
-        ],
-        "7333": [
-          "Dezena no quarto prêmio!<br>com o palpite 7333",
-          "COBRA 🐍 no quarto prêmio!<br>com o palpite 7333",
-          "Dezena no quinto prêmio!<br>com o palpite 7333",
-          "COBRA 🐍 no quinto prêmio!<br>com o palpite 7333"
-        ],
-        "7823": [
-          "Centena e Dezena no oitavo prêmio!<br>com o palpite 7823",
-          "Dezena no oitavo prêmio!<br>com o palpite 7823",
-          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 7823"
-        ],
-        "7833": [
-          "Dezena no quarto prêmio!<br>com o palpite 7833",
-          "COBRA 🐍 no quarto prêmio!<br>com o palpite 7833",
-          "Dezena no quinto prêmio!<br>com o palpite 7833",
-          "COBRA 🐍 no quinto prêmio!<br>com o palpite 7833"
-        ],
-        "7923": [
-          "Dezena no oitavo prêmio!<br>com o palpite 7923",
-          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 7923"
-        ],
-        "7933": [
-          "Dezena no quarto prêmio!<br>com o palpite 7933",
-          "COBRA 🐍 no quarto prêmio!<br>com o palpite 7933",
-          "Dezena no quinto prêmio!<br>com o palpite 7933",
-          "COBRA 🐍 no quinto prêmio!<br>com o palpite 7933"
+        "0033": [
+          "Dezena no quarto prêmio!<br>com o palpite 0033",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 0033",
+          "Dezena no quinto prêmio!<br>com o palpite 0033",
+          "COBRA 🐍 no quinto prêmio!<br>com o palpite 0033"
         ],
         "0333": [
           "Dezena no quarto prêmio!<br>com o palpite 0333",
@@ -576,37 +552,17 @@
           "COBRA 🐍 no quarto prêmio!<br>com o palpite 0833",
           "Dezena no quinto prêmio!<br>com o palpite 0833",
           "COBRA 🐍 no quinto prêmio!<br>com o palpite 0833"
-        ],
-        "0933": [
-          "Dezena no quarto prêmio!<br>com o palpite 0933",
-          "COBRA 🐍 no quarto prêmio!<br>com o palpite 0933",
-          "Dezena no quinto prêmio!<br>com o palpite 0933",
-          "COBRA 🐍 no quinto prêmio!<br>com o palpite 0933"
-        ],
-        "0323": [
-          "Dezena no oitavo prêmio!<br>com o palpite 0323",
-          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 0323"
-        ],
-        "0823": [
-          "Centena e Dezena no oitavo prêmio!<br>com o palpite 0823",
-          "Dezena no oitavo prêmio!<br>com o palpite 0823",
-          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 0823"
-        ],
-        "0923": [
-          "Dezena no oitavo prêmio!<br>com o palpite 0923",
-          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 0923"
         ]
       },
       "acertos": {
-        "Milhar": 1,
-        "Centena": 4,
-        "Dezena": 36,
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 18,
         "Grupo": [
-          "🐍",
-          "🐐"
+          "🐍"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0323, 0333, 0373, 0393, 0823, 0833, 0873, 0893, 0923, 0933, 0973, 0993, 1323, 1333, 1373, 1393, 1823, 1833, 1873, 1893, 1923, 1933, 1973, 1993, 3323, 3333, 3373, 3393, 3823, 3833, 3873, 3893, 3923, 3933, 3973, 3993, 7323, 7333, 7373, 7393, 7823, 7833, 7873, 7893, 7923, 7933, 7973, 7993"
+      "resumo": "Palpites dados para esta extração: 0033, 0333, 0833, 1033, 1333, 1833, 3033, 3333, 3833"
     },
     "LOOK - GOIÁS, 09h do 1º ao 10º": {
       "cabecalhos": [
@@ -678,6 +634,12 @@
         }
       ],
       "frases": {
+        "1033": [
+          "Dezena no quarto prêmio!<br>com o palpite 1033",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 1033",
+          "Dezena no sétimo prêmio!<br>com o palpite 1033",
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 1033"
+        ],
         "1333": [
           "Centena e Dezena no quarto prêmio!<br>com o palpite 1333",
           "Dezena no quarto prêmio!<br>com o palpite 1333",
@@ -685,37 +647,17 @@
           "Dezena no sétimo prêmio!<br>com o palpite 1333",
           "COBRA 🐍 no sétimo prêmio!<br>com o palpite 1333"
         ],
-        "1373": [
-          "Dezena no sexto prêmio!<br>com o palpite 1373",
-          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 1373",
-          "Centena e Dezena no oitavo prêmio!<br>com o palpite 1373",
-          "Dezena no oitavo prêmio!<br>com o palpite 1373",
-          "PAVÃO 🦚 no oitavo prêmio!<br>com o palpite 1373"
-        ],
         "1833": [
           "Dezena no quarto prêmio!<br>com o palpite 1833",
           "COBRA 🐍 no quarto prêmio!<br>com o palpite 1833",
           "Dezena no sétimo prêmio!<br>com o palpite 1833",
           "COBRA 🐍 no sétimo prêmio!<br>com o palpite 1833"
         ],
-        "1873": [
-          "Dezena no sexto prêmio!<br>com o palpite 1873",
-          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 1873",
-          "Dezena no oitavo prêmio!<br>com o palpite 1873",
-          "PAVÃO 🦚 no oitavo prêmio!<br>com o palpite 1873"
-        ],
-        "1933": [
-          "Dezena no quarto prêmio!<br>com o palpite 1933",
-          "COBRA 🐍 no quarto prêmio!<br>com o palpite 1933",
-          "Centena e Dezena no sétimo prêmio!<br>com o palpite 1933",
-          "Dezena no sétimo prêmio!<br>com o palpite 1933",
-          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 1933"
-        ],
-        "1973": [
-          "Dezena no sexto prêmio!<br>com o palpite 1973",
-          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 1973",
-          "Dezena no oitavo prêmio!<br>com o palpite 1973",
-          "PAVÃO 🦚 no oitavo prêmio!<br>com o palpite 1973"
+        "3033": [
+          "Dezena no quarto prêmio!<br>com o palpite 3033",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 3033",
+          "Dezena no sétimo prêmio!<br>com o palpite 3033",
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 3033"
         ],
         "3333": [
           "Milhar e Centena no quarto prêmio!<br>com o palpite 3333",
@@ -725,76 +667,17 @@
           "Dezena no sétimo prêmio!<br>com o palpite 3333",
           "COBRA 🐍 no sétimo prêmio!<br>com o palpite 3333"
         ],
-        "3373": [
-          "Dezena no sexto prêmio!<br>com o palpite 3373",
-          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 3373",
-          "Centena e Dezena no oitavo prêmio!<br>com o palpite 3373",
-          "Dezena no oitavo prêmio!<br>com o palpite 3373",
-          "PAVÃO 🦚 no oitavo prêmio!<br>com o palpite 3373"
-        ],
         "3833": [
           "Dezena no quarto prêmio!<br>com o palpite 3833",
           "COBRA 🐍 no quarto prêmio!<br>com o palpite 3833",
           "Dezena no sétimo prêmio!<br>com o palpite 3833",
           "COBRA 🐍 no sétimo prêmio!<br>com o palpite 3833"
         ],
-        "3873": [
-          "Dezena no sexto prêmio!<br>com o palpite 3873",
-          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 3873",
-          "Dezena no oitavo prêmio!<br>com o palpite 3873",
-          "PAVÃO 🦚 no oitavo prêmio!<br>com o palpite 3873"
-        ],
-        "3933": [
-          "Dezena no quarto prêmio!<br>com o palpite 3933",
-          "COBRA 🐍 no quarto prêmio!<br>com o palpite 3933",
-          "Centena e Dezena no sétimo prêmio!<br>com o palpite 3933",
-          "Dezena no sétimo prêmio!<br>com o palpite 3933",
-          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 3933"
-        ],
-        "3973": [
-          "Dezena no sexto prêmio!<br>com o palpite 3973",
-          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 3973",
-          "Dezena no oitavo prêmio!<br>com o palpite 3973",
-          "PAVÃO 🦚 no oitavo prêmio!<br>com o palpite 3973"
-        ],
-        "7333": [
-          "Centena e Dezena no quarto prêmio!<br>com o palpite 7333",
-          "Dezena no quarto prêmio!<br>com o palpite 7333",
-          "COBRA 🐍 no quarto prêmio!<br>com o palpite 7333",
-          "Dezena no sétimo prêmio!<br>com o palpite 7333",
-          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 7333"
-        ],
-        "7373": [
-          "Dezena no sexto prêmio!<br>com o palpite 7373",
-          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 7373",
-          "Centena e Dezena no oitavo prêmio!<br>com o palpite 7373",
-          "Dezena no oitavo prêmio!<br>com o palpite 7373",
-          "PAVÃO 🦚 no oitavo prêmio!<br>com o palpite 7373"
-        ],
-        "7833": [
-          "Dezena no quarto prêmio!<br>com o palpite 7833",
-          "COBRA 🐍 no quarto prêmio!<br>com o palpite 7833",
-          "Dezena no sétimo prêmio!<br>com o palpite 7833",
-          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 7833"
-        ],
-        "7873": [
-          "Dezena no sexto prêmio!<br>com o palpite 7873",
-          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 7873",
-          "Dezena no oitavo prêmio!<br>com o palpite 7873",
-          "PAVÃO 🦚 no oitavo prêmio!<br>com o palpite 7873"
-        ],
-        "7933": [
-          "Dezena no quarto prêmio!<br>com o palpite 7933",
-          "COBRA 🐍 no quarto prêmio!<br>com o palpite 7933",
-          "Centena e Dezena no sétimo prêmio!<br>com o palpite 7933",
-          "Dezena no sétimo prêmio!<br>com o palpite 7933",
-          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 7933"
-        ],
-        "7973": [
-          "Dezena no sexto prêmio!<br>com o palpite 7973",
-          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 7973",
-          "Dezena no oitavo prêmio!<br>com o palpite 7973",
-          "PAVÃO 🦚 no oitavo prêmio!<br>com o palpite 7973"
+        "0033": [
+          "Dezena no quarto prêmio!<br>com o palpite 0033",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 0033",
+          "Dezena no sétimo prêmio!<br>com o palpite 0033",
+          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 0033"
         ],
         "0333": [
           "Centena e Dezena no quarto prêmio!<br>com o palpite 0333",
@@ -808,45 +691,17 @@
           "COBRA 🐍 no quarto prêmio!<br>com o palpite 0833",
           "Dezena no sétimo prêmio!<br>com o palpite 0833",
           "COBRA 🐍 no sétimo prêmio!<br>com o palpite 0833"
-        ],
-        "0933": [
-          "Dezena no quarto prêmio!<br>com o palpite 0933",
-          "COBRA 🐍 no quarto prêmio!<br>com o palpite 0933",
-          "Centena e Dezena no sétimo prêmio!<br>com o palpite 0933",
-          "Dezena no sétimo prêmio!<br>com o palpite 0933",
-          "COBRA 🐍 no sétimo prêmio!<br>com o palpite 0933"
-        ],
-        "0373": [
-          "Dezena no sexto prêmio!<br>com o palpite 0373",
-          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 0373",
-          "Milhar e Centena no oitavo prêmio!<br>com o palpite 0373",
-          "Centena e Dezena no oitavo prêmio!<br>com o palpite 0373",
-          "Dezena no oitavo prêmio!<br>com o palpite 0373",
-          "PAVÃO 🦚 no oitavo prêmio!<br>com o palpite 0373"
-        ],
-        "0873": [
-          "Dezena no sexto prêmio!<br>com o palpite 0873",
-          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 0873",
-          "Dezena no oitavo prêmio!<br>com o palpite 0873",
-          "PAVÃO 🦚 no oitavo prêmio!<br>com o palpite 0873"
-        ],
-        "0973": [
-          "Dezena no sexto prêmio!<br>com o palpite 0973",
-          "PAVÃO 🦚 no sexto prêmio!<br>com o palpite 0973",
-          "Dezena no oitavo prêmio!<br>com o palpite 0973",
-          "PAVÃO 🦚 no oitavo prêmio!<br>com o palpite 0973"
         ]
       },
       "acertos": {
-        "Milhar": 2,
-        "Centena": 12,
-        "Dezena": 48,
+        "Milhar": 1,
+        "Centena": 3,
+        "Dezena": 18,
         "Grupo": [
-          "🐍",
-          "🦚"
+          "🐍"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0323, 0333, 0373, 0393, 0823, 0833, 0873, 0893, 0923, 0933, 0973, 0993, 1323, 1333, 1373, 1393, 1823, 1833, 1873, 1893, 1923, 1933, 1973, 1993, 3323, 3333, 3373, 3393, 3823, 3833, 3873, 3893, 3923, 3933, 3973, 3993, 7323, 7333, 7373, 7393, 7823, 7833, 7873, 7893, 7923, 7933, 7973, 7993"
+      "resumo": "Palpites dados para esta extração: 0033, 0333, 0833, 1033, 1333, 1833, 3033, 3333, 3833"
     },
     "LOOK - GOIÁS, 11h do 1º ao 10º": {
       "cabecalhos": [
@@ -918,101 +773,160 @@
         }
       ],
       "frases": {
-        "1323": [
-          "Dezena no quinto prêmio!<br>com o palpite 1323",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 1323"
+        "1033": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 1033"
         ],
         "1333": [
           "COBRA 🐍 no primeiro prêmio!<br>com o palpite 1333"
         ],
-        "1823": [
-          "Dezena no quinto prêmio!<br>com o palpite 1823",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 1823"
-        ],
         "1833": [
           "COBRA 🐍 no primeiro prêmio!<br>com o palpite 1833"
         ],
-        "1923": [
-          "Dezena no quinto prêmio!<br>com o palpite 1923",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 1923"
-        ],
-        "1933": [
-          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 1933"
-        ],
-        "3323": [
-          "Dezena no quinto prêmio!<br>com o palpite 3323",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 3323"
+        "3033": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 3033"
         ],
         "3333": [
           "COBRA 🐍 no primeiro prêmio!<br>com o palpite 3333"
         ],
-        "3823": [
-          "Dezena no quinto prêmio!<br>com o palpite 3823",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 3823"
-        ],
         "3833": [
           "COBRA 🐍 no primeiro prêmio!<br>com o palpite 3833"
         ],
-        "3923": [
-          "Dezena no quinto prêmio!<br>com o palpite 3923",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 3923"
-        ],
-        "3933": [
-          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 3933"
-        ],
-        "7323": [
-          "Dezena no quinto prêmio!<br>com o palpite 7323",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 7323"
-        ],
-        "7333": [
-          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 7333"
-        ],
-        "7823": [
-          "Dezena no quinto prêmio!<br>com o palpite 7823",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 7823"
-        ],
-        "7833": [
-          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 7833"
-        ],
-        "7923": [
-          "Dezena no quinto prêmio!<br>com o palpite 7923",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 7923"
-        ],
-        "7933": [
-          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 7933"
+        "0033": [
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 0033"
         ],
         "0333": [
           "COBRA 🐍 no primeiro prêmio!<br>com o palpite 0333"
         ],
         "0833": [
           "COBRA 🐍 no primeiro prêmio!<br>com o palpite 0833"
-        ],
-        "0933": [
-          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 0933"
-        ],
-        "0323": [
-          "Dezena no quinto prêmio!<br>com o palpite 0323",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0323"
-        ],
-        "0823": [
-          "Dezena no quinto prêmio!<br>com o palpite 0823",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0823"
-        ],
-        "0923": [
-          "Dezena no quinto prêmio!<br>com o palpite 0923",
-          "CABRA 🐐 no quinto prêmio!<br>com o palpite 0923"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 12,
+        "Dezena": 0,
         "Grupo": [
-          "🐍",
-          "🐐"
+          "🐍"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0323, 0333, 0373, 0393, 0823, 0833, 0873, 0893, 0923, 0933, 0973, 0993, 1323, 1333, 1373, 1393, 1823, 1833, 1873, 1893, 1923, 1933, 1973, 1993, 3323, 3333, 3373, 3393, 3823, 3833, 3873, 3893, 3923, 3933, 3973, 3993, 7323, 7333, 7373, 7393, 7823, 7833, 7873, 7893, 7923, 7933, 7973, 7993"
+      "resumo": "Palpites dados para esta extração: 0033, 0333, 0833, 1033, 1333, 1833, 3033, 3333, 3833"
+    },
+    "LOOK - GOIÁS, 14h do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "8876",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4161",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5962",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "8733",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "1348",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "8458",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "8197",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "7663",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "6123",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "9521",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        }
+      ],
+      "frases": {
+        "1033": [
+          "Dezena no quarto prêmio!<br>com o palpite 1033",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 1033"
+        ],
+        "1333": [
+          "Dezena no quarto prêmio!<br>com o palpite 1333",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 1333"
+        ],
+        "1833": [
+          "Dezena no quarto prêmio!<br>com o palpite 1833",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 1833"
+        ],
+        "3033": [
+          "Dezena no quarto prêmio!<br>com o palpite 3033",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 3033"
+        ],
+        "3333": [
+          "Dezena no quarto prêmio!<br>com o palpite 3333",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 3333"
+        ],
+        "3833": [
+          "Dezena no quarto prêmio!<br>com o palpite 3833",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 3833"
+        ],
+        "0033": [
+          "Dezena no quarto prêmio!<br>com o palpite 0033",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 0033"
+        ],
+        "0333": [
+          "Dezena no quarto prêmio!<br>com o palpite 0333",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 0333"
+        ],
+        "0833": [
+          "Dezena no quarto prêmio!<br>com o palpite 0833",
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 0833"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 9,
+        "Grupo": [
+          "🐍"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 0033, 0333, 0833, 1033, 1333, 1833, 3033, 3333, 3833"
     }
   }
 }
