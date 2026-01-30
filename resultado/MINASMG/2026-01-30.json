@@ -10,107 +10,55 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "6759",
-          "Grupo": "15",
-          "Bicho": "Jacaré"
+          "Milhar": "9866",
+          "Grupo": "17",
+          "Bicho": "Macaco"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "0463",
+          "Milhar": "3837",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2564",
           "Grupo": "16",
           "Bicho": "Leão"
         },
         {
-          "Prêmio": "3º",
-          "Milhar": "4365",
-          "Grupo": "17",
-          "Bicho": "Macaco"
-        },
-        {
           "Prêmio": "4º",
-          "Milhar": "3466",
-          "Grupo": "17",
-          "Bicho": "Macaco"
+          "Milhar": "4133",
+          "Grupo": "09",
+          "Bicho": "Cobra"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "3772",
-          "Grupo": "18",
-          "Bicho": "Porco"
+          "Milhar": "9434",
+          "Grupo": "09",
+          "Bicho": "Cobra"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "18825",
+          "Milhar": "29834",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "129",
+          "Milhar": "855",
           "Grupo": "",
           "Bicho": ""
         }
       ],
-      "frases": {
-        "3361": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3361"
-        ],
-        "3369": [
-          "PORCO 🐖 no quinto prêmio!<br>com o palpite 3369"
-        ],
-        "3461": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 3461"
-        ],
-        "3469": [
-          "PORCO 🐖 no quinto prêmio!<br>com o palpite 3469"
-        ],
-        "4361": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 4361"
-        ],
-        "4369": [
-          "PORCO 🐖 no quinto prêmio!<br>com o palpite 4369"
-        ],
-        "4461": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 4461"
-        ],
-        "4469": [
-          "PORCO 🐖 no quinto prêmio!<br>com o palpite 4469"
-        ],
-        "6361": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 6361"
-        ],
-        "6369": [
-          "PORCO 🐖 no quinto prêmio!<br>com o palpite 6369"
-        ],
-        "6461": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 6461"
-        ],
-        "6469": [
-          "PORCO 🐖 no quinto prêmio!<br>com o palpite 6469"
-        ],
-        "0361": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 0361"
-        ],
-        "0461": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 0461"
-        ],
-        "0369": [
-          "PORCO 🐖 no quinto prêmio!<br>com o palpite 0369"
-        ],
-        "0469": [
-          "PORCO 🐖 no quinto prêmio!<br>com o palpite 0469"
-        ]
-      },
+      "frases": {},
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": [
-          "🦁",
-          "🐖"
-        ]
+        "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0361, 0369, 0461, 0469, 3361, 3369, 3461, 3469, 4361, 4369, 4461, 4469, 6361, 6369, 6461, 6469"
+      "resumo": "Palpites dados para esta extração: 0069, 0469, 4069, 4469, 6069, 6469"
     },
     "MINAS DIA - MG, 15h": {
       "cabecalhos": [
