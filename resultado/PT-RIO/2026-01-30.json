@@ -52,55 +52,166 @@
         }
       ],
       "frases": {
-        "1022": [
-          "CABRA 🐐 no sexto prêmio!<br>com o palpite 1022"
+        "2052": [
+          "Dezena no segundo prêmio!<br>com o palpite 2052",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 2052",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 2052",
+          "Dezena no sétimo prêmio!<br>com o palpite 2052",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 2052"
         ],
-        "1029": [
-          "Dezena no quinto prêmio!<br>com o palpite 1029",
-          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 1029"
+        "2452": [
+          "Dezena no segundo prêmio!<br>com o palpite 2452",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 2452",
+          "Dezena no sétimo prêmio!<br>com o palpite 2452",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 2452"
         ],
-        "1032": [
-          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 1032"
+        "2852": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 2852",
+          "Dezena no segundo prêmio!<br>com o palpite 2852",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 2852",
+          "Dezena no sétimo prêmio!<br>com o palpite 2852",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 2852"
         ],
-        "1049": [
-          "GALO 🐓 no segundo prêmio!<br>com o palpite 1049",
-          "GALO 🐓 no sétimo prêmio!<br>com o palpite 1049"
+        "6052": [
+          "Dezena no segundo prêmio!<br>com o palpite 6052",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 6052",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 6052",
+          "Dezena no sétimo prêmio!<br>com o palpite 6052",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 6052"
         ],
-        "1082": [
-          "Dezena no quarto prêmio!<br>com o palpite 1082",
-          "TOURO 🐂 no quarto prêmio!<br>com o palpite 1082"
+        "6452": [
+          "Dezena no segundo prêmio!<br>com o palpite 6452",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 6452",
+          "Dezena no sétimo prêmio!<br>com o palpite 6452",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 6452"
         ],
-        "7022": [
-          "CABRA 🐐 no sexto prêmio!<br>com o palpite 7022"
+        "6852": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 6852",
+          "Dezena no segundo prêmio!<br>com o palpite 6852",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 6852",
+          "Dezena no sétimo prêmio!<br>com o palpite 6852",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 6852"
         ],
-        "7029": [
-          "Dezena no quinto prêmio!<br>com o palpite 7029",
-          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 7029"
+        "7052": [
+          "Dezena no segundo prêmio!<br>com o palpite 7052",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 7052",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 7052",
+          "Dezena no sétimo prêmio!<br>com o palpite 7052",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 7052"
         ],
-        "7032": [
-          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 7032"
+        "7452": [
+          "Dezena no segundo prêmio!<br>com o palpite 7452",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 7452",
+          "Dezena no sétimo prêmio!<br>com o palpite 7452",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 7452"
         ],
-        "7049": [
-          "GALO 🐓 no segundo prêmio!<br>com o palpite 7049",
-          "GALO 🐓 no sétimo prêmio!<br>com o palpite 7049"
+        "7852": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 7852",
+          "Dezena no segundo prêmio!<br>com o palpite 7852",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 7852",
+          "Dezena no sétimo prêmio!<br>com o palpite 7852",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 7852"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 6,
+        "Dezena": 18,
+        "Grupo": [
+          "🐓"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 2052, 2452, 2852, 6052, 6452, 6852, 7052, 7452, 7852"
+    },
+    "PT-RIO, RJ, 11:00, PTM": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "8977",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4397",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2683",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7427",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4767",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "8251",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "471",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "2052": [
+          "GALO 🐓 no sexto prêmio!<br>com o palpite 2052"
         ],
-        "7082": [
-          "Dezena no quarto prêmio!<br>com o palpite 7082",
-          "TOURO 🐂 no quarto prêmio!<br>com o palpite 7082"
+        "2452": [
+          "GALO 🐓 no sexto prêmio!<br>com o palpite 2452"
+        ],
+        "2852": [
+          "GALO 🐓 no sexto prêmio!<br>com o palpite 2852"
+        ],
+        "6052": [
+          "GALO 🐓 no sexto prêmio!<br>com o palpite 6052"
+        ],
+        "6452": [
+          "GALO 🐓 no sexto prêmio!<br>com o palpite 6452"
+        ],
+        "6852": [
+          "GALO 🐓 no sexto prêmio!<br>com o palpite 6852"
+        ],
+        "7052": [
+          "GALO 🐓 no sexto prêmio!<br>com o palpite 7052"
+        ],
+        "7452": [
+          "GALO 🐓 no sexto prêmio!<br>com o palpite 7452"
+        ],
+        "7852": [
+          "GALO 🐓 no sexto prêmio!<br>com o palpite 7852"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 4,
+        "Dezena": 0,
         "Grupo": [
-          "🐓",
-          "🐂",
-          "🐪",
-          "🐐"
+          "🐓"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1012, 1015, 1019, 1022, 1025, 1029, 1032, 1035, 1039, 1042, 1045, 1049, 1062, 1065, 1069, 1072, 1075, 1079, 1082, 1085, 1089, 1092, 1095, 1099, 7012, 7015, 7019, 7022, 7025, 7029, 7032, 7035, 7039, 7042, 7045, 7049, 7062, 7065, 7069, 7072, 7075, 7079, 7082, 7085, 7089, 7092, 7095, 7099"
+      "resumo": "Palpites dados para esta extração: 2052, 2452, 2852, 6052, 6452, 6852, 7052, 7452, 7852"
     }
   },
   "1-10": {
@@ -174,65 +285,160 @@
         }
       ],
       "frases": {
-        "1029": [
-          "Dezena no quinto prêmio!<br>com o palpite 1029",
-          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 1029"
+        "2052": [
+          "Dezena no segundo prêmio!<br>com o palpite 2052",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 2052",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 2052",
+          "Dezena no nono prêmio!<br>com o palpite 2052",
+          "GALO 🐓 no nono prêmio!<br>com o palpite 2052"
         ],
-        "1032": [
-          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 1032"
+        "2452": [
+          "Dezena no segundo prêmio!<br>com o palpite 2452",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 2452",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 2452",
+          "Dezena no nono prêmio!<br>com o palpite 2452",
+          "GALO 🐓 no nono prêmio!<br>com o palpite 2452"
         ],
-        "1049": [
-          "GALO 🐓 no segundo prêmio!<br>com o palpite 1049",
-          "Dezena no sétimo prêmio!<br>com o palpite 1049",
-          "GALO 🐓 no sétimo prêmio!<br>com o palpite 1049",
-          "GALO 🐓 no nono prêmio!<br>com o palpite 1049"
+        "2852": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 2852",
+          "Dezena no segundo prêmio!<br>com o palpite 2852",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 2852",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 2852",
+          "Dezena no nono prêmio!<br>com o palpite 2852",
+          "GALO 🐓 no nono prêmio!<br>com o palpite 2852"
         ],
-        "1069": [
-          "PORCO 🐖 no sexto prêmio!<br>com o palpite 1069"
+        "6052": [
+          "Dezena no segundo prêmio!<br>com o palpite 6052",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 6052",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 6052",
+          "Dezena no nono prêmio!<br>com o palpite 6052",
+          "GALO 🐓 no nono prêmio!<br>com o palpite 6052"
         ],
-        "1072": [
-          "PORCO 🐖 no sexto prêmio!<br>com o palpite 1072"
+        "6452": [
+          "Dezena no segundo prêmio!<br>com o palpite 6452",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 6452",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 6452",
+          "Dezena no nono prêmio!<br>com o palpite 6452",
+          "GALO 🐓 no nono prêmio!<br>com o palpite 6452"
         ],
-        "1082": [
-          "Dezena no quarto prêmio!<br>com o palpite 1082",
-          "TOURO 🐂 no quarto prêmio!<br>com o palpite 1082"
+        "6852": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 6852",
+          "Dezena no segundo prêmio!<br>com o palpite 6852",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 6852",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 6852",
+          "Dezena no nono prêmio!<br>com o palpite 6852",
+          "GALO 🐓 no nono prêmio!<br>com o palpite 6852"
         ],
-        "7029": [
-          "Dezena no quinto prêmio!<br>com o palpite 7029",
-          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 7029"
+        "7052": [
+          "Dezena no segundo prêmio!<br>com o palpite 7052",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 7052",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 7052",
+          "Dezena no nono prêmio!<br>com o palpite 7052",
+          "GALO 🐓 no nono prêmio!<br>com o palpite 7052"
         ],
-        "7032": [
-          "CAMELO 🐪 no quinto prêmio!<br>com o palpite 7032"
+        "7452": [
+          "Dezena no segundo prêmio!<br>com o palpite 7452",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 7452",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 7452",
+          "Dezena no nono prêmio!<br>com o palpite 7452",
+          "GALO 🐓 no nono prêmio!<br>com o palpite 7452"
         ],
-        "7049": [
-          "GALO 🐓 no segundo prêmio!<br>com o palpite 7049",
-          "Dezena no sétimo prêmio!<br>com o palpite 7049",
-          "GALO 🐓 no sétimo prêmio!<br>com o palpite 7049",
-          "GALO 🐓 no nono prêmio!<br>com o palpite 7049"
-        ],
-        "7069": [
-          "PORCO 🐖 no sexto prêmio!<br>com o palpite 7069"
-        ],
-        "7072": [
-          "PORCO 🐖 no sexto prêmio!<br>com o palpite 7072"
-        ],
-        "7082": [
-          "Dezena no quarto prêmio!<br>com o palpite 7082",
-          "TOURO 🐂 no quarto prêmio!<br>com o palpite 7082"
+        "7852": [
+          "Centena e Dezena no segundo prêmio!<br>com o palpite 7852",
+          "Dezena no segundo prêmio!<br>com o palpite 7852",
+          "GALO 🐓 no segundo prêmio!<br>com o palpite 7852",
+          "GALO 🐓 no sétimo prêmio!<br>com o palpite 7852",
+          "Dezena no nono prêmio!<br>com o palpite 7852",
+          "GALO 🐓 no nono prêmio!<br>com o palpite 7852"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 0,
-        "Dezena": 6,
+        "Centena": 3,
+        "Dezena": 18,
         "Grupo": [
-          "🐓",
-          "🐂",
-          "🐪",
-          "🐖"
+          "🐓"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1012, 1015, 1019, 1022, 1025, 1029, 1032, 1035, 1039, 1042, 1045, 1049, 1062, 1065, 1069, 1072, 1075, 1079, 1082, 1085, 1089, 1092, 1095, 1099, 7012, 7015, 7019, 7022, 7025, 7029, 7032, 7035, 7039, 7042, 7045, 7049, 7062, 7065, 7069, 7072, 7075, 7079, 7082, 7085, 7089, 7092, 7095, 7099"
+      "resumo": "Palpites dados para esta extração: 2052, 2452, 2852, 6052, 6452, 6852, 7052, 7452, 7852"
+    },
+    "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "8977",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "4397",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2683",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7427",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "4767",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "8427",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "9364",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "7982",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "7737",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "1761",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 2052, 2452, 2852, 6052, 6452, 6852, 7052, 7452, 7852"
     }
   }
 }
