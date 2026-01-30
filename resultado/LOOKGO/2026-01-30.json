@@ -58,7 +58,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0063, 0163, 0863, 8063, 8163, 8863, 9063, 9163, 9863"
+      "resumo": "Palpites dados para esta extração: 8163"
     },
     "LOOK - GOIÁS, 09h": {
       "cabecalhos": [
@@ -118,7 +118,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0063, 0163, 0863, 8063, 8163, 8863, 9063, 9163, 9863"
+      "resumo": "Palpites dados para esta extração: 8163"
     },
     "LOOK - GOIÁS, 11h": {
       "cabecalhos": [
@@ -178,7 +178,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0063, 0163, 0863, 8063, 8163, 8863, 9063, 9163, 9863"
+      "resumo": "Palpites dados para esta extração: 8163"
     },
     "LOOK - GOIÁS, 14h": {
       "cabecalhos": [
@@ -232,41 +232,9 @@
         }
       ],
       "frases": {
-        "8063": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 8063",
-          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 8063"
-        ],
         "8163": [
           "LEÃO 🦁 no segundo prêmio!<br>com o palpite 8163",
           "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 8163"
-        ],
-        "8863": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 8863",
-          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 8863"
-        ],
-        "9063": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 9063",
-          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 9063"
-        ],
-        "9163": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 9163",
-          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 9163"
-        ],
-        "9863": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 9863",
-          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 9863"
-        ],
-        "0063": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 0063",
-          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 0063"
-        ],
-        "0163": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 0163",
-          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 0163"
-        ],
-        "0863": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 0863",
-          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 0863"
         ]
       },
       "acertos": {
@@ -277,7 +245,67 @@
           "🦁"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0063, 0163, 0863, 8063, 8163, 8863, 9063, 9163, 9863"
+      "resumo": "Palpites dados para esta extração: 8163"
+    },
+    "LOOK - GOIÁS, 16h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "9287",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6094",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2687",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1105",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "0604",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "9777",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "594",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 8163"
     }
   },
   "1-10": {
@@ -357,7 +385,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0063, 0163, 0863, 8063, 8163, 8863, 9063, 9163, 9863"
+      "resumo": "Palpites dados para esta extração: 8163"
     },
     "LOOK - GOIÁS, 09h do 1º ao 10º": {
       "cabecalhos": [
@@ -435,7 +463,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0063, 0163, 0863, 8063, 8163, 8863, 9063, 9163, 9863"
+      "resumo": "Palpites dados para esta extração: 8163"
     },
     "LOOK - GOIÁS, 11h do 1º ao 10º": {
       "cabecalhos": [
@@ -513,7 +541,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 0063, 0163, 0863, 8063, 8163, 8863, 9063, 9163, 9863"
+      "resumo": "Palpites dados para esta extração: 8163"
     },
     "LOOK - GOIÁS, 14h do 1º ao 10º": {
       "cabecalhos": [
@@ -585,70 +613,106 @@
         }
       ],
       "frases": {
-        "8063": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 8063",
-          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 8063",
-          "Dezena no oitavo prêmio!<br>com o palpite 8063",
-          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 8063"
-        ],
         "8163": [
           "LEÃO 🦁 no segundo prêmio!<br>com o palpite 8163",
           "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 8163",
           "Dezena no oitavo prêmio!<br>com o palpite 8163",
           "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 8163"
-        ],
-        "8863": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 8863",
-          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 8863",
-          "Dezena no oitavo prêmio!<br>com o palpite 8863",
-          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 8863"
-        ],
-        "9063": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 9063",
-          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 9063",
-          "Dezena no oitavo prêmio!<br>com o palpite 9063",
-          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 9063"
-        ],
-        "9163": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 9163",
-          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 9163",
-          "Dezena no oitavo prêmio!<br>com o palpite 9163",
-          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 9163"
-        ],
-        "9863": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 9863",
-          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 9863",
-          "Dezena no oitavo prêmio!<br>com o palpite 9863",
-          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 9863"
-        ],
-        "0063": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 0063",
-          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 0063",
-          "Dezena no oitavo prêmio!<br>com o palpite 0063",
-          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 0063"
-        ],
-        "0163": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 0163",
-          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 0163",
-          "Dezena no oitavo prêmio!<br>com o palpite 0163",
-          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 0163"
-        ],
-        "0863": [
-          "LEÃO 🦁 no segundo prêmio!<br>com o palpite 0863",
-          "LEÃO 🦁 no terceiro prêmio!<br>com o palpite 0863",
-          "Dezena no oitavo prêmio!<br>com o palpite 0863",
-          "LEÃO 🦁 no oitavo prêmio!<br>com o palpite 0863"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 9,
+        "Dezena": 1,
         "Grupo": [
           "🦁"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 0063, 0163, 0863, 8063, 8163, 8863, 9063, 9163, 9863"
+      "resumo": "Palpites dados para esta extração: 8163"
+    },
+    "LOOK - GOIÁS, 16h do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "9287",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6094",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2687",
+          "Grupo": "22",
+          "Bicho": "Tigre"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1105",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "0604",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "9621",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "2061",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "8980",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "7475",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "7914",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        }
+      ],
+      "frases": {
+        "8163": [
+          "LEÃO 🦁 no sétimo prêmio!<br>com o palpite 8163"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🦁"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 8163"
     }
   }
 }
