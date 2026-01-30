@@ -51,14 +51,26 @@
           "Bicho": ""
         }
       ],
-      "frases": {},
+      "frases": {
+        "1722": [
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 1722"
+        ],
+        "7722": [
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 7722"
+        ],
+        "9722": [
+          "CABRA 🐐 no sexto prêmio!<br>com o palpite 9722"
+        ]
+      },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
         "Dezena": 0,
-        "Grupo": []
+        "Grupo": [
+          "🐐"
+        ]
       },
-      "resumo": "Palpites dados para esta extração: 1317, 1327, 1337, 1397, 1817, 1827, 1837, 1897"
+      "resumo": "Palpites dados para esta extração: 1722, 1727, 7722, 7727, 9722, 9727"
     },
     "PT-RIO, RJ, 11:00, PTM": {
       "cabecalhos": [
@@ -112,34 +124,28 @@
         }
       ],
       "frases": {
-        "1327": [
-          "Dezena no quarto prêmio!<br>com o palpite 1327",
-          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 1327"
+        "1727": [
+          "Dezena no quarto prêmio!<br>com o palpite 1727",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 1727"
         ],
-        "1397": [
-          "Centena e Dezena no segundo prêmio!<br>com o palpite 1397",
-          "Dezena no segundo prêmio!<br>com o palpite 1397",
-          "VACA 🐄 no segundo prêmio!<br>com o palpite 1397"
+        "7727": [
+          "Dezena no quarto prêmio!<br>com o palpite 7727",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 7727"
         ],
-        "1827": [
-          "Dezena no quarto prêmio!<br>com o palpite 1827",
-          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 1827"
-        ],
-        "1897": [
-          "Dezena no segundo prêmio!<br>com o palpite 1897",
-          "VACA 🐄 no segundo prêmio!<br>com o palpite 1897"
+        "9727": [
+          "Dezena no quarto prêmio!<br>com o palpite 9727",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 9727"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 4,
+        "Centena": 0,
+        "Dezena": 3,
         "Grupo": [
-          "🐄",
           "🐑"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1317, 1327, 1337, 1397, 1817, 1827, 1837, 1897"
+      "resumo": "Palpites dados para esta extração: 1722, 1727, 7722, 7727, 9722, 9727"
     },
     "PT-RIO, RJ, 14:20, PT": {
       "cabecalhos": [
@@ -193,31 +199,28 @@
         }
       ],
       "frases": {
-        "1317": [
-          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 1317"
+        "1727": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1727",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 1727"
         ],
-        "1327": [
-          "Dezena no primeiro prêmio!<br>com o palpite 1327",
-          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 1327"
+        "7727": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7727",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 7727"
         ],
-        "1817": [
-          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 1817"
-        ],
-        "1827": [
-          "Dezena no primeiro prêmio!<br>com o palpite 1827",
-          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 1827"
+        "9727": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9727",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 9727"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
+        "Dezena": 3,
         "Grupo": [
-          "🐑",
-          "🐕"
+          "🐑"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1317, 1327, 1337, 1397, 1817, 1827, 1837, 1897"
+      "resumo": "Palpites dados para esta extração: 1722, 1727, 7722, 7727, 9722, 9727"
     },
     "PT-RIO, RJ, 16:00, PTV": {
       "cabecalhos": [
@@ -271,11 +274,93 @@
         }
       ],
       "frases": {
-        "1397": [
-          "VACA 🐄 no primeiro prêmio!<br>com o palpite 1397"
+        "1722": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 1722",
+          "Dezena no quarto prêmio!<br>com o palpite 1722",
+          "CABRA 🐐 no quarto prêmio!<br>com o palpite 1722"
         ],
-        "1897": [
-          "VACA 🐄 no primeiro prêmio!<br>com o palpite 1897"
+        "7722": [
+          "Milhar e Centena no quarto prêmio!<br>com o palpite 7722",
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 7722",
+          "Dezena no quarto prêmio!<br>com o palpite 7722",
+          "CABRA 🐐 no quarto prêmio!<br>com o palpite 7722"
+        ],
+        "9722": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 9722",
+          "Dezena no quarto prêmio!<br>com o palpite 9722",
+          "CABRA 🐐 no quarto prêmio!<br>com o palpite 9722"
+        ]
+      },
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 3,
+        "Dezena": 3,
+        "Grupo": [
+          "🐐"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1722, 1727, 7722, 7727, 9722, 9727"
+    },
+    "PT-RIO, RJ, 18:20, PTN": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0097",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5705",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1426",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5310",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "0295",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "2833",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "553",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "1727": [
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 1727"
+        ],
+        "7727": [
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 7727"
+        ],
+        "9727": [
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 9727"
         ]
       },
       "acertos": {
@@ -283,10 +368,10 @@
         "Centena": 0,
         "Dezena": 0,
         "Grupo": [
-          "🐄"
+          "🐑"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1317, 1327, 1337, 1397, 1817, 1827, 1837, 1897"
+      "resumo": "Palpites dados para esta extração: 1722, 1727, 7722, 7727, 9722, 9727"
     }
   },
   "1-10": {
@@ -366,7 +451,7 @@
         "Dezena": 0,
         "Grupo": []
       },
-      "resumo": "Palpites dados para esta extração: 1317, 1327, 1337, 1397, 1817, 1827, 1837, 1897"
+      "resumo": "Palpites dados para esta extração: 1722, 1727, 7722, 7727, 9722, 9727"
     },
     "PT-RIO, RJ, 11:00, PTM do 1º ao 10º": {
       "cabecalhos": [
@@ -438,47 +523,34 @@
         }
       ],
       "frases": {
-        "1327": [
-          "Dezena no quarto prêmio!<br>com o palpite 1327",
-          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 1327",
-          "Dezena no sexto prêmio!<br>com o palpite 1327",
-          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 1327"
+        "1727": [
+          "Dezena no quarto prêmio!<br>com o palpite 1727",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 1727",
+          "Dezena no sexto prêmio!<br>com o palpite 1727",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 1727"
         ],
-        "1337": [
-          "Dezena no nono prêmio!<br>com o palpite 1337",
-          "COELHO 🐇 no nono prêmio!<br>com o palpite 1337"
+        "7727": [
+          "Dezena no quarto prêmio!<br>com o palpite 7727",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 7727",
+          "Dezena no sexto prêmio!<br>com o palpite 7727",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 7727"
         ],
-        "1397": [
-          "Centena e Dezena no segundo prêmio!<br>com o palpite 1397",
-          "Dezena no segundo prêmio!<br>com o palpite 1397",
-          "VACA 🐄 no segundo prêmio!<br>com o palpite 1397"
-        ],
-        "1827": [
-          "Dezena no quarto prêmio!<br>com o palpite 1827",
-          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 1827",
-          "Dezena no sexto prêmio!<br>com o palpite 1827",
-          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 1827"
-        ],
-        "1837": [
-          "Dezena no nono prêmio!<br>com o palpite 1837",
-          "COELHO 🐇 no nono prêmio!<br>com o palpite 1837"
-        ],
-        "1897": [
-          "Dezena no segundo prêmio!<br>com o palpite 1897",
-          "VACA 🐄 no segundo prêmio!<br>com o palpite 1897"
+        "9727": [
+          "Dezena no quarto prêmio!<br>com o palpite 9727",
+          "CARNEIRO 🐑 no quarto prêmio!<br>com o palpite 9727",
+          "Dezena no sexto prêmio!<br>com o palpite 9727",
+          "CARNEIRO 🐑 no sexto prêmio!<br>com o palpite 9727"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 8,
+        "Centena": 0,
+        "Dezena": 6,
         "Grupo": [
-          "🐄",
-          "🐑",
-          "🐇"
+          "🐑"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1317, 1327, 1337, 1397, 1817, 1827, 1837, 1897"
+      "resumo": "Palpites dados para esta extração: 1722, 1727, 7722, 7727, 9722, 9727"
     },
     "PT-RIO, RJ, 14:20, PT do 1º ao 10º": {
       "cabecalhos": [
@@ -550,45 +622,31 @@
         }
       ],
       "frases": {
-        "1317": [
-          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 1317"
+        "1727": [
+          "Dezena no primeiro prêmio!<br>com o palpite 1727",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 1727",
+          "CARNEIRO 🐑 no décimo prêmio!<br>com o palpite 1727"
         ],
-        "1327": [
-          "Dezena no primeiro prêmio!<br>com o palpite 1327",
-          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 1327",
-          "CARNEIRO 🐑 no décimo prêmio!<br>com o palpite 1327"
+        "7727": [
+          "Dezena no primeiro prêmio!<br>com o palpite 7727",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 7727",
+          "CARNEIRO 🐑 no décimo prêmio!<br>com o palpite 7727"
         ],
-        "1337": [
-          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 1337",
-          "Dezena no nono prêmio!<br>com o palpite 1337",
-          "COELHO 🐇 no nono prêmio!<br>com o palpite 1337"
-        ],
-        "1817": [
-          "CACHORRO 🐕 no segundo prêmio!<br>com o palpite 1817"
-        ],
-        "1827": [
-          "Dezena no primeiro prêmio!<br>com o palpite 1827",
-          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 1827",
-          "CARNEIRO 🐑 no décimo prêmio!<br>com o palpite 1827"
-        ],
-        "1837": [
-          "COELHO 🐇 no sétimo prêmio!<br>com o palpite 1837",
-          "Centena e Dezena no nono prêmio!<br>com o palpite 1837",
-          "Dezena no nono prêmio!<br>com o palpite 1837",
-          "COELHO 🐇 no nono prêmio!<br>com o palpite 1837"
+        "9727": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9727",
+          "CARNEIRO 🐑 no primeiro prêmio!<br>com o palpite 9727",
+          "CARNEIRO 🐑 no décimo prêmio!<br>com o palpite 9727"
         ]
       },
       "acertos": {
         "Milhar": 0,
-        "Centena": 1,
-        "Dezena": 4,
+        "Centena": 0,
+        "Dezena": 3,
         "Grupo": [
-          "🐑",
-          "🐕",
-          "🐇"
+          "🐑"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1317, 1327, 1337, 1397, 1817, 1827, 1837, 1897"
+      "resumo": "Palpites dados para esta extração: 1722, 1727, 7722, 7727, 9722, 9727"
     },
     "PT-RIO, RJ, 16:00, PTV do 1º ao 10º": {
       "cabecalhos": [
@@ -660,31 +718,158 @@
         }
       ],
       "frases": {
-        "1327": [
-          "Dezena no sétimo prêmio!<br>com o palpite 1327",
-          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 1327"
+        "1722": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 1722",
+          "Dezena no quarto prêmio!<br>com o palpite 1722",
+          "CABRA 🐐 no quarto prêmio!<br>com o palpite 1722",
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 1722",
+          "Dezena no décimo prêmio!<br>com o palpite 1722",
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 1722"
         ],
-        "1397": [
-          "VACA 🐄 no primeiro prêmio!<br>com o palpite 1397"
+        "1727": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 1727",
+          "Dezena no sétimo prêmio!<br>com o palpite 1727",
+          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 1727"
         ],
-        "1827": [
-          "Dezena no sétimo prêmio!<br>com o palpite 1827",
-          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 1827"
+        "7722": [
+          "Milhar e Centena no quarto prêmio!<br>com o palpite 7722",
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 7722",
+          "Dezena no quarto prêmio!<br>com o palpite 7722",
+          "CABRA 🐐 no quarto prêmio!<br>com o palpite 7722",
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 7722",
+          "Dezena no décimo prêmio!<br>com o palpite 7722",
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 7722"
         ],
-        "1897": [
-          "VACA 🐄 no primeiro prêmio!<br>com o palpite 1897"
+        "7727": [
+          "Milhar e Centena no sétimo prêmio!<br>com o palpite 7727",
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 7727",
+          "Dezena no sétimo prêmio!<br>com o palpite 7727",
+          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 7727"
+        ],
+        "9722": [
+          "Centena e Dezena no quarto prêmio!<br>com o palpite 9722",
+          "Dezena no quarto prêmio!<br>com o palpite 9722",
+          "CABRA 🐐 no quarto prêmio!<br>com o palpite 9722",
+          "Centena e Dezena no décimo prêmio!<br>com o palpite 9722",
+          "Dezena no décimo prêmio!<br>com o palpite 9722",
+          "CABRA 🐐 no décimo prêmio!<br>com o palpite 9722"
+        ],
+        "9727": [
+          "Centena e Dezena no sétimo prêmio!<br>com o palpite 9727",
+          "Dezena no sétimo prêmio!<br>com o palpite 9727",
+          "CARNEIRO 🐑 no sétimo prêmio!<br>com o palpite 9727"
+        ]
+      },
+      "acertos": {
+        "Milhar": 2,
+        "Centena": 9,
+        "Dezena": 9,
+        "Grupo": [
+          "🐐",
+          "🐑"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1722, 1727, 7722, 7727, 9722, 9727"
+    },
+    "PT-RIO, RJ, 18:20, PTN do 1º ao 10º": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0097",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "5705",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1426",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5310",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "0295",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "0515",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "0743",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "9021",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "7560",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "0672",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        }
+      ],
+      "frases": {
+        "1722": [
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 1722"
+        ],
+        "1727": [
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 1727"
+        ],
+        "7722": [
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 7722"
+        ],
+        "7727": [
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 7727"
+        ],
+        "9722": [
+          "CABRA 🐐 no oitavo prêmio!<br>com o palpite 9722"
+        ],
+        "9727": [
+          "CARNEIRO 🐑 no terceiro prêmio!<br>com o palpite 9727"
         ]
       },
       "acertos": {
         "Milhar": 0,
         "Centena": 0,
-        "Dezena": 2,
+        "Dezena": 0,
         "Grupo": [
-          "🐄",
-          "🐑"
+          "🐑",
+          "🐐"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 1317, 1327, 1337, 1397, 1817, 1827, 1837, 1897"
+      "resumo": "Palpites dados para esta extração: 1722, 1727, 7722, 7727, 9722, 9727"
     }
   }
 }
