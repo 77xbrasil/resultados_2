@@ -10,82 +10,98 @@
       "dados": [
         {
           "Prêmio": "1º",
-          "Milhar": "9866",
-          "Grupo": "17",
-          "Bicho": "Macaco"
+          "Milhar": "3908",
+          "Grupo": "02",
+          "Bicho": "Águia"
         },
         {
           "Prêmio": "2º",
-          "Milhar": "3837",
-          "Grupo": "10",
-          "Bicho": "Coelho"
+          "Milhar": "9193",
+          "Grupo": "24",
+          "Bicho": "Veado"
         },
         {
           "Prêmio": "3º",
-          "Milhar": "2564",
-          "Grupo": "16",
-          "Bicho": "Leão"
+          "Milhar": "4296",
+          "Grupo": "24",
+          "Bicho": "Veado"
         },
         {
           "Prêmio": "4º",
-          "Milhar": "4133",
-          "Grupo": "09",
-          "Bicho": "Cobra"
+          "Milhar": "9952",
+          "Grupo": "13",
+          "Bicho": "Galo"
         },
         {
           "Prêmio": "5º",
-          "Milhar": "9434",
-          "Grupo": "09",
-          "Bicho": "Cobra"
+          "Milhar": "9019",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
         },
         {
           "Prêmio": "6º [soma]",
-          "Milhar": "29834",
+          "Milhar": "36368",
           "Grupo": "",
           "Bicho": ""
         },
         {
           "Prêmio": "7º [mult]",
-          "Milhar": "855",
+          "Milhar": "926",
           "Grupo": "",
           "Bicho": ""
         }
       ],
       "frases": {
-        "9434": [
-          "COBRA 🐍 no quarto prêmio!<br>com o palpite 9434",
-          "Milhar e Centena no quinto prêmio!<br>com o palpite 9434",
-          "Centena e Dezena no quinto prêmio!<br>com o palpite 9434",
-          "Dezena no quinto prêmio!<br>com o palpite 9434",
-          "COBRA 🐍 no quinto prêmio!<br>com o palpite 9434",
-          "Dezena no sexto prêmio!<br>com o palpite 9434",
-          "COBRA 🐍 no sexto prêmio!<br>com o palpite 9434"
+        "7451": [
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 7451"
         ],
-        "9534": [
-          "COBRA 🐍 no quarto prêmio!<br>com o palpite 9534",
-          "Dezena no quinto prêmio!<br>com o palpite 9534",
-          "COBRA 🐍 no quinto prêmio!<br>com o palpite 9534",
-          "Dezena no sexto prêmio!<br>com o palpite 9534",
-          "COBRA 🐍 no sexto prêmio!<br>com o palpite 9534"
+        "7465": [
+          "MACACO 🐒 no sexto prêmio!<br>com o palpite 7465"
         ],
-        "9834": [
-          "COBRA 🐍 no quarto prêmio!<br>com o palpite 9834",
-          "Dezena no quinto prêmio!<br>com o palpite 9834",
-          "COBRA 🐍 no quinto prêmio!<br>com o palpite 9834",
-          "Centena e Dezena no sexto prêmio!<br>com o palpite 9834",
-          "Dezena no sexto prêmio!<br>com o palpite 9834",
-          "COBRA 🐍 no sexto prêmio!<br>com o palpite 9834"
+        "7493": [
+          "Dezena no segundo prêmio!<br>com o palpite 7493",
+          "VEADO 🦌 no segundo prêmio!<br>com o palpite 7493",
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 7493"
+        ],
+        "7494": [
+          "VEADO 🦌 no segundo prêmio!<br>com o palpite 7494",
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 7494"
+        ],
+        "7495": [
+          "VEADO 🦌 no segundo prêmio!<br>com o palpite 7495",
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 7495"
+        ],
+        "9451": [
+          "GALO 🐓 no quarto prêmio!<br>com o palpite 9451"
+        ],
+        "9465": [
+          "MACACO 🐒 no sexto prêmio!<br>com o palpite 9465"
+        ],
+        "9493": [
+          "Dezena no segundo prêmio!<br>com o palpite 9493",
+          "VEADO 🦌 no segundo prêmio!<br>com o palpite 9493",
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 9493"
+        ],
+        "9494": [
+          "VEADO 🦌 no segundo prêmio!<br>com o palpite 9494",
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 9494"
+        ],
+        "9495": [
+          "VEADO 🦌 no segundo prêmio!<br>com o palpite 9495",
+          "VEADO 🦌 no terceiro prêmio!<br>com o palpite 9495"
         ]
       },
       "acertos": {
-        "Milhar": 1,
-        "Centena": 2,
-        "Dezena": 6,
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 2,
         "Grupo": [
-          "🐍"
+          "🦌",
+          "🐓",
+          "🐒"
         ]
       },
-      "resumo": "Palpites dados para esta extração: 9434, 9534, 9834"
+      "resumo": "Palpites dados para esta extração: 7431, 7433, 7434, 7435, 7451, 7453, 7454, 7455, 7461, 7463, 7464, 7465, 7491, 7493, 7494, 7495, 9431, 9433, 9434, 9435, 9451, 9453, 9454, 9455, 9461, 9463, 9464, 9465, 9491, 9493, 9494, 9495"
     },
     "MINAS DIA - MG, 15h": {
       "cabecalhos": [
