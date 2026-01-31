@@ -1,0 +1,286 @@
+{
+  "1-5": {
+    "ALVORADA - MG, 12h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "9866",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "3837",
+          "Grupo": "10",
+          "Bicho": "Coelho"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "2564",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "4133",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9434",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "29834",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "855",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "9434": [
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 9434",
+          "Milhar e Centena no quinto prêmio!<br>com o palpite 9434",
+          "Centena e Dezena no quinto prêmio!<br>com o palpite 9434",
+          "Dezena no quinto prêmio!<br>com o palpite 9434",
+          "COBRA 🐍 no quinto prêmio!<br>com o palpite 9434",
+          "Dezena no sexto prêmio!<br>com o palpite 9434",
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 9434"
+        ],
+        "9534": [
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 9534",
+          "Dezena no quinto prêmio!<br>com o palpite 9534",
+          "COBRA 🐍 no quinto prêmio!<br>com o palpite 9534",
+          "Dezena no sexto prêmio!<br>com o palpite 9534",
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 9534"
+        ],
+        "9834": [
+          "COBRA 🐍 no quarto prêmio!<br>com o palpite 9834",
+          "Dezena no quinto prêmio!<br>com o palpite 9834",
+          "COBRA 🐍 no quinto prêmio!<br>com o palpite 9834",
+          "Centena e Dezena no sexto prêmio!<br>com o palpite 9834",
+          "Dezena no sexto prêmio!<br>com o palpite 9834",
+          "COBRA 🐍 no sexto prêmio!<br>com o palpite 9834"
+        ]
+      },
+      "acertos": {
+        "Milhar": 1,
+        "Centena": 2,
+        "Dezena": 6,
+        "Grupo": [
+          "🐍"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 9434, 9534, 9834"
+    },
+    "MINAS DIA - MG, 15h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "9734",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1695",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7209",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9428",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "0497",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "28563",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "499",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {
+        "9434": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9434",
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 9434"
+        ],
+        "9534": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9534",
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 9534"
+        ],
+        "9834": [
+          "Dezena no primeiro prêmio!<br>com o palpite 9834",
+          "COBRA 🐍 no primeiro prêmio!<br>com o palpite 9834"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 3,
+        "Grupo": [
+          "🐍"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 9434, 9534, 9834"
+    },
+    "MINAS NOITE - MG, 19h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "5565",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "8582",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "5473",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "9851",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7291",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "36762",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "758",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 9434, 9534, 9834"
+    },
+    "PREFERIDA - MG, 21h": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "0455",
+          "Grupo": "14",
+          "Bicho": "Gato"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "6314",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "6919",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "7303",
+          "Grupo": "01",
+          "Bicho": "Avestruz"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "7651",
+          "Grupo": "13",
+          "Bicho": "Galo"
+        },
+        {
+          "Prêmio": "6º [soma]",
+          "Milhar": "28642",
+          "Grupo": "",
+          "Bicho": ""
+        },
+        {
+          "Prêmio": "7º [mult]",
+          "Milhar": "872",
+          "Grupo": "",
+          "Bicho": ""
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 9434, 9534, 9834"
+    }
+  }
+}
