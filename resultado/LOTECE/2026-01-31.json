@@ -1,0 +1,359 @@
+{
+  "1-10": {
+    "LOTECE - CE, 11:00 (manhã)": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "4668",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "0592",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1418",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5166",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "9006",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "9364",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "9369",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "8115",
+          "Grupo": "04",
+          "Bicho": "Borboleta"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "9445",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "2992",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        }
+      ],
+      "frases": {
+        "1247": [
+          "ELEFANTE 🐘 no nono prêmio!<br>com o palpite 1247"
+        ],
+        "1847": [
+          "ELEFANTE 🐘 no nono prêmio!<br>com o palpite 1847"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐘"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1247, 1277, 1847, 1877"
+    },
+    "LOTECE - CE, 14:00 (tarde)": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "9172",
+          "Grupo": "18",
+          "Bicho": "Porco"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "1368",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "7720",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "1622",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8306",
+          "Grupo": "02",
+          "Bicho": "Águia"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "2227",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "9527",
+          "Grupo": "07",
+          "Bicho": "Carneiro"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "6534",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "7564",
+          "Grupo": "16",
+          "Bicho": "Leão"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "4182",
+          "Grupo": "21",
+          "Bicho": "Touro"
+        }
+      ],
+      "frases": {},
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": []
+      },
+      "resumo": "Palpites dados para esta extração: 1247, 1277, 1847, 1877"
+    },
+    "LOTECE - CE, 15:45 (tarde II)": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "1074",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "2799",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "0867",
+          "Grupo": "17",
+          "Bicho": "Macaco"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "5177",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "5594",
+          "Grupo": "24",
+          "Bicho": "Veado"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "3500",
+          "Grupo": "25",
+          "Bicho": "Vaca"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "4773",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "3845",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "5277",
+          "Grupo": "20",
+          "Bicho": "Peru"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "7922",
+          "Grupo": "06",
+          "Bicho": "Cabra"
+        }
+      ],
+      "frases": {
+        "1247": [
+          "ELEFANTE 🐘 no oitavo prêmio!<br>com o palpite 1247"
+        ],
+        "1277": [
+          "Dezena no quarto prêmio!<br>com o palpite 1277",
+          "PERU 🦃 no quarto prêmio!<br>com o palpite 1277",
+          "Centena e Dezena no nono prêmio!<br>com o palpite 1277",
+          "Dezena no nono prêmio!<br>com o palpite 1277",
+          "PERU 🦃 no nono prêmio!<br>com o palpite 1277"
+        ],
+        "1847": [
+          "ELEFANTE 🐘 no oitavo prêmio!<br>com o palpite 1847"
+        ],
+        "1877": [
+          "Dezena no quarto prêmio!<br>com o palpite 1877",
+          "PERU 🦃 no quarto prêmio!<br>com o palpite 1877",
+          "Dezena no nono prêmio!<br>com o palpite 1877",
+          "PERU 🦃 no nono prêmio!<br>com o palpite 1877"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 1,
+        "Dezena": 4,
+        "Grupo": [
+          "🦃",
+          "🐘"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1247, 1277, 1847, 1877"
+    },
+    "LOTECE - CE, 19:00 (noite)": {
+      "cabecalhos": [
+        "Prêmio",
+        "Milhar",
+        "Grupo",
+        "Bicho"
+      ],
+      "dados": [
+        {
+          "Prêmio": "1º",
+          "Milhar": "3248",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "2º",
+          "Milhar": "0211",
+          "Grupo": "03",
+          "Bicho": "Burro"
+        },
+        {
+          "Prêmio": "3º",
+          "Milhar": "1817",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "4º",
+          "Milhar": "0244",
+          "Grupo": "11",
+          "Bicho": "Cavalo"
+        },
+        {
+          "Prêmio": "5º",
+          "Milhar": "8190",
+          "Grupo": "23",
+          "Bicho": "Urso"
+        },
+        {
+          "Prêmio": "6º",
+          "Milhar": "1360",
+          "Grupo": "15",
+          "Bicho": "Jacaré"
+        },
+        {
+          "Prêmio": "7º",
+          "Milhar": "4335",
+          "Grupo": "09",
+          "Bicho": "Cobra"
+        },
+        {
+          "Prêmio": "8º",
+          "Milhar": "7017",
+          "Grupo": "05",
+          "Bicho": "Cachorro"
+        },
+        {
+          "Prêmio": "9º",
+          "Milhar": "1445",
+          "Grupo": "12",
+          "Bicho": "Elefante"
+        },
+        {
+          "Prêmio": "10º",
+          "Milhar": "1476",
+          "Grupo": "19",
+          "Bicho": "Pavão"
+        }
+      ],
+      "frases": {
+        "1247": [
+          "ELEFANTE 🐘 no primeiro prêmio!<br>com o palpite 1247",
+          "ELEFANTE 🐘 no nono prêmio!<br>com o palpite 1247"
+        ],
+        "1847": [
+          "ELEFANTE 🐘 no primeiro prêmio!<br>com o palpite 1847",
+          "ELEFANTE 🐘 no nono prêmio!<br>com o palpite 1847"
+        ]
+      },
+      "acertos": {
+        "Milhar": 0,
+        "Centena": 0,
+        "Dezena": 0,
+        "Grupo": [
+          "🐘"
+        ]
+      },
+      "resumo": "Palpites dados para esta extração: 1247, 1277, 1847, 1877"
+    }
+  }
+}
